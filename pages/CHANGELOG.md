@@ -1,3 +1,7 @@
+### January 8, 2014
+
+- Added beginning of PSG Sleep Variable Data Guide
+
 ### December 3, 2013
 
 - The CHAT data dictionary is now searchable on [sleepdata.org/collection](/collection?d=chat). Browse around, explore, and get back to us if you're interested in seeing more!
