@@ -1,6 +1,7 @@
 ### January 9, 2014
 
 - Completed adding the [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide)
+- Added [CHAT Reliability ICCs](:pages_path:/4-reliability-chat.md)
 
 ### January 8, 2014
 
