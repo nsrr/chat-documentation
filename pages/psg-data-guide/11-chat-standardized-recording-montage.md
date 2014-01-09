@@ -42,7 +42,7 @@ CHAT Standardized Recording Montage
 |  Chest                    |  Upper chest, below armpit                                  |  Pro-Tech, Z-Rip system                             |
 |  Abdomen                  |  Lower abdomen, on or slightly above umbilicus              |  Pro-Tech, Z-Rip system                             |
 |  Sum                      |                                                             |  Pro-Tech, Z-Rip system                             |
-|  Oximetry (SpO2) Pleth wave form or other quality indicator  |  Non-index fingertip on non-dominant hand, Nonin XPod Model 3012 or comparable on-board with quality indicator (i.e.:Masimo) |  Reusable or disposable Nonin Finger oximeter sensor Nonin 8000J or 8008J or other to interface correctly with on-boeard (dependent on finger size) |
+|  Oximetry (SpO2) Pleth wave form or other quality indicator  |  Non-index fingertip on non-dominant hand, Nonin XPod Model 3012 or comparable on-board with quality indicator (i.e.:Masimo) |  Reusable or disposable Nonin Finger oximeter sensor Nonin 8000J or 8008J or other to interface correctly with on-board (dependent on finger size) |
 |  Snore Mic                |  This signal is not obligate for CHAT                       |  Standard sensor, if used in clinical lab           |
 |  Position                 |  Middle of upper chest, may be on chest belt                |  The correct sensor for your PSG instrument         |
 |  Capnography EtCO2        |  Nasal Cannula at floor of nares                            |  Numeric Display Salter or Protech Cannula (Dual-end for NP & CO2)  |
