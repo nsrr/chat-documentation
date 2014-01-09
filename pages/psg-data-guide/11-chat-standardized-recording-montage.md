@@ -1,10 +1,7 @@
 ## 1.1 CHAT Standardized Recording Montage
 
-CHAT Standardized Recording Montage
 - Sampling rates for signal collection are minimum rates and may be exceeded depending on rates offered by the acquisition system. Sampling rates should be the same among like channels (i.e. EEG, EMG, Respiratory).
 - Signals were be collected unfiltered (at hardware settings). This may vary according to the acquisition system. 60 Hz filter may used during collection.
-
-
 
 ### Table 1: CHAT Standardized Sensors and Placement
 
