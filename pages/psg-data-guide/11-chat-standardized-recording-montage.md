@@ -92,7 +92,6 @@ CHAT Standardized Recording Montage
 
 
 
-
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
@@ -102,9 +101,14 @@ CHAT Standardized Recording Montage
     1. Data Acquisition
   </a>
 
-  <a href=":pages_path:/README.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    README.md
+    PSG Data Guide
+  </a>
+
+  <a href=":pages_path:/psg-data-guide/12-display-montage.md" class="btn btn-success">
+    1.2 Display Montage
+    <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
 </div>

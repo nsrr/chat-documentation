@@ -1,4 +1,4 @@
-## 1.1 Display Montage
+## 1.2 Display Montage
 
 - Post acquisition filters are used for display screen settings.
 - Because of the variability of peak-to-peak settings between equipment the display sensitivity should be set so that signals are clear and desired waveforms can be seen.
@@ -79,4 +79,25 @@
 
 \* Set Display Amplitude to adequately visualize all signals
 
+
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+
+<div class="center">
+<div class="btn-group">
+  <a href=":pages_path:/psg-data-guide/11-chat-standardized-recording-montage.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    1.1 CHAT Standardized Recording Montage
+  </a>
+
+  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    PSG Data Guide
+  </a>
+
+  <a href=":pages_path:/psg-data-guide/13-equipment-used-at-each-chat-site.md" class="btn btn-success">
+    1.3 Equipment Used at each CHAT Site
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>
  

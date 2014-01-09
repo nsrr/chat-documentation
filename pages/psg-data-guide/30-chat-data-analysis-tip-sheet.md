@@ -1,6 +1,8 @@
 ## 3. CHAT Data Analysis Tip Sheet
 
-The following summarized some  PSG variables of likely interest to CHAT investigators:
+The following summarized some PSG variables of likely interest to CHAT investigators:
+
+### 3.1 Summary of interesting PSG Variables
 
 | Name                                            |     |  Category     |     #  |  Description                               |
 |:------------------------------------------------|:---:|:--------------|-------:|:-------------------------------------------|
@@ -30,8 +32,13 @@ The following summarized some  PSG variables of likely interest to CHAT investig
 |  [omahi3o](/collection?d=chat&s=omahi3o)        |  1  |  Respiratory  |  1458  |  Filtered: Non-Supine CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
 
 
-**Suggestions Transformations and Derivations for Key Variables (Note that some of the discussion items were developed by the Sleep Heart Health Study, with special credit to HL Kichner and E Shahar).**
+### 3.2 Suggestions, Transformations, and Derivations of Key Variables
 
+<div class="bs-callout bs-callout-info">
+  <p>
+    Note that some of the discussion items were developed by the Sleep Heart Health Study, with special credit to HL Kichner and E Shahar.
+  </p>
+</div>
 
 A number of key sleep-related variables are not normally distributed.  Modeling these variables as the dependent variables violates assumptions of linear regression.  Achieving normality, or identifying alternative methods to use these data is important not only for consistency across publications, but also for accurate reporting of results.
 
@@ -79,3 +86,19 @@ Drawbacks:
 - No “concise” list of point estimates (though can be read off the graph)
 - Other (beyond the scope of this document)
 
+
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+
+<div class="center">
+<div class="btn-group">
+  <a href=":pages_path:/psg-data-guide/20-condensed-data-dictionary.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    2. Condensed Data Dictionary
+  </a>
+
+  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    PSG Data Guide
+  </a>
+</div>
+</div>

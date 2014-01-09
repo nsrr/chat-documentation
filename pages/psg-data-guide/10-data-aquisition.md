@@ -27,9 +27,9 @@ Although initial CHAT sites were required to use a Nonin Oximeter board and Nova
     README.md
   </a>
 
-  <a href=":pages_path:/README.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    README.md
+    PSG Data Guide
   </a>
 
   <a href=":pages_path:/psg-data-guide/11-chat-standardized-recording-montage.md" class="btn btn-success">

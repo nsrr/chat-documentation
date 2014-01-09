@@ -1,4 +1,4 @@
-## Equipment Used at each CHAT Site
+## 1.3 Equipment Used at each CHAT Site
 
 ### Table 3: Equipment Used at Each CHAT Site
 
@@ -56,3 +56,26 @@
 |  703        |  Unit C3 biologic              |  48               |  No CO2 data  |  Nonin-Internal-last used 3/21/11                         |  5/19/2009         |
 |  704        |  Unit C4 biologic              |  32               |  No CO2 data  |  Nonin-Internal-last used 4/28/11                         |  12/21/2009        |
 |  706        |  Unit 5 Xltek                  |  5                |  No CO2 data  |  Masimo Oxi - Certified Aug 2011 11/19/11 last follow-up  |  10/7/2011         |
+
+
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+
+<div class="center">
+<div class="btn-group">
+  <a href=":pages_path:/psg-data-guide/12-display-montage.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    1.2 Display Montage
+  </a>
+
+  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    PSG Data Guide
+  </a>
+
+  <a href=":pages_path:/psg-data-guide/20-condensed-data-dictionary.md" class="btn btn-success">
+    2. Condensed Data Dictionary
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>
+ 

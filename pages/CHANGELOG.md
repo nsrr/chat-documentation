@@ -1,3 +1,7 @@
+### January 9, 2014
+
+- Completed adding the [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide)
+
 ### January 8, 2014
 
 - Added beginning of PSG Sleep Variable Data Guide

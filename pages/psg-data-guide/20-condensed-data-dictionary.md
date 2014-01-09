@@ -5,11 +5,11 @@ A Condensed PSG Data Dictionary (DD) is available to all users. It contains comm
 The User can use this DD (provided initially as an excel spreadsheet) to search by variable name (name), broad data type (domain), data label, etc. In addition, the DD  identifies the forms used to capture the data, a brief description of the data, restrictions placed on derived data (e.g., stage variables were not generated if the EEG was too poor to allow reliable staging), the computation derivation of the derived variables, and units the variable is expressed.
 
 
-### Acquisition Variables
+### 2.1 Acquisition Variables
 
 Use to identify:  Site, collection units; capnograph or oximeter types, baseline or follow-up study. Data provided by sites on collection forms.   Detailed information regarding equipment used at each site, standardized recording montage setting, sensors and specific signal collection issues relating to EDF can be found in the Data Acquisition section.
 
-### Quality Codes – Scoring Variables (see QS Form with variable names and quality codes defined)
+### 2.2 Quality Codes – Scoring Variables (see QS Form with variable names and quality codes defined)
 
 Quality Codes provide information on which studies may contribute data of different quality for specific analyses, acknowledging that not all studies will provide “reliable” data for all measures due to loss of signals or equipment problems.
 
@@ -18,6 +18,8 @@ Quality Codes provide information on which studies may contribute data of differ
 - **Signal Quality grades** are also assigned to each channel. These vary from 1 (poorest) to 5 (best) and reflect the proportion of the sleep period that the signals were “useable.”
 
 - **Useable respiratory data** is defined as the number or of hours that abnormal breaths can be distinguished from “normal” breaths;  EEG/EOG/EMG data are defined by the number of hours that sleep stages can be distinguished from awake.  Hours of useable signal are rounded out to the lowest whole integer (e.g. 4.6 hours of useable data = 4).
+
+### 2.3 QS Form Codebook
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -33,7 +35,7 @@ Quality Codes provide information on which studies may contribute data of differ
   </div>
 </div>
 
-### Hard Filters
+### 2.4 Hard Filters
 
 Hard Filters are used to identify problem studies and/or fields where it is invalid to provide a raw or derived variable because of missing signal or very poor quality signal data.  Listed below are descriptions of when data were eliminated from the data set due to an inability to generate specific metrics as well as suggestions on how quality codes can be applied to obtain different degrees of signal reliability relevant to specific analysis.
 
@@ -46,7 +48,13 @@ Hard Filters are used to identify problem studies and/or fields where it is inva
 - If lights off = sleep onset indicating ppt asleep at start of recording, then sleep latency (slp_lat) will be missing.
 
 
-### Soft Filters That Can Be Applied (Refer to DD for full description of each code)
+### 2.5 Soft Filters That Can Be Applied
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    Refer to DD for full description of each code
+  </p>
+</div>
 
 The DD provides suggested codes that can be applied to each variable to help identify subsets of data which may be most reliable for selective analyses. The following examples show how such filters can be applied. Please refer to the QC code sheet for specific code values and names.
 
@@ -161,3 +169,25 @@ Suggest that for cross sectional analyses, the Nova_est_co2 variables be used (r
 - For BCI: `Nova_est_CO2AVGNR = (rco2avgnr * 0.49613) + 20.83379`
 - For BCI: `Nova_est_PCTCO2G45 = (rpctco2g45 * 0.64525) + 7.67373`
 - For BCI: `Nova_est_PCTCO2G50 = (rpctco2g50 * 0.42979) + 0.64553`
+
+
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+
+<div class="center">
+<div class="btn-group">
+  <a href=":pages_path:/psg-data-guide/13-equipment-used-at-each-chat-site.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    1.3 Equipment Used at each CHAT Site
+  </a>
+
+  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    PSG Data Guide
+  </a>
+
+  <a href=":pages_path:/psg-data-guide/30-chat-data-analysis-tip-sheet.md" class="btn btn-success">
+    3. CHAT Data Analysis Tip Sheet
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>

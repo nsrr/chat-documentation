@@ -10,6 +10,10 @@ When citing this dataset please use:
 Redline, S., et al. "Childhood Adenotonsillectomy Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/chat.
 ```
 
+## Documentation
+
+- [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/00-psg-data-guide-toc.md)
+
 ## References
 
 - http://www.nejm.org/doi/full/10.1056/NEJMoa1215881#t
