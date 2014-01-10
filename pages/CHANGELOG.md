@@ -1,3 +1,7 @@
+### January 10, 2014
+
+- Added to the [Manual of Operations](:pages_path:/mop)
+
 ### January 9, 2014
 
 - Completed adding the [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide)

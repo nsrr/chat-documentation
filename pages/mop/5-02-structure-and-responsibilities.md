@@ -26,17 +26,17 @@ The PRC will establish and maintain a database for tracking of PSG tests receive
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/mop/5-10-objectives.md" class="btn btn-default">
+  <a href=":pages_path:/mop/5-01-objectives.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     5.1 Objectives
   </a>
 
-  <a href=":pages_path:/mop/00-psg-data-guide-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/5-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Manual of Operations
   </a>
 
-  <a href=":pages_path:/mop/5-30-certification-of-prc-staff.md" class="btn btn-success">
+  <a href=":pages_path:/mop/5-03-certification-of-prc-staff.md" class="btn btn-success">
     5.3 Certification of PRC Staff
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

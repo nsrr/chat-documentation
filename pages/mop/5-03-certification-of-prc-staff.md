@@ -21,18 +21,18 @@ A certified scorer will review (epoch by epoch) the first 10 records scored by e
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/mop/5-20-structure-and-responsibilities.md" class="btn btn-default">
+  <a href=":pages_path:/mop/5-02-structure-and-responsibilities.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     5.2 Structure and Responsibilities
   </a>
 
-  <a href=":pages_path:/mop/00-psg-data-guide-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/5-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Manual of Operations
   </a>
 
-  <a href=":pages_path:/mop/" class="btn btn-success">
-
+  <a href=":pages_path:/mop/5-04-training-and-psg-certification-field-sites.md" class="btn btn-success">
+    5.4 Training and PSG Certification - Field Sites
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
