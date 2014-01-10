@@ -1,6 +1,6 @@
 ### January 10, 2014
 
-- Added to the [Manual of Operations](:pages_path:/mop)
+- Completed adding the [Manual of Operations](:pages_path:/mop)
 
 ### January 9, 2014
 
