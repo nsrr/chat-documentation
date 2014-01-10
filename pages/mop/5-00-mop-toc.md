@@ -36,24 +36,24 @@
   - [5.6.12 Archival of Data](:pages_path:/mop/5-06-12-archival-of-data.md)
 - [5.7 Scoring Procedures](:pages_path:/mop/5-07-scoring-procedures.md)
   - 5.7.1. Overview of Scoring
-- [5.8 Scoring Rules](:pages_path:/mop/5-08-scoring-rules.md)
-  - 5.8.1 Scoring Sleep Stages and Arousals
-    - 5.8.1.1 Rules for assigning epoch-specific sleep score
-    - 5.8.1.2 Sleep onset
-    - 5.8.1.3 EEG arousal
-    - 5.8.1.4 Arousals in REM
-    - 5.8.1.5 Rules for assigning sleep stages when arousal is present in the epoch
-    - 5.8.1.6 Episodic events in sleep
-    - 5.8.1.7 Rules for assigning sleep stages
-  - 5.8.2 Scoring Respiratory Events
-  - 5.8.3 Nasal Flow Limitation
-  - 5.8.4 Scoring Periodic Leg Movements
+- 5.8 Scoring Rules
+  - [5.8.1 Scoring Sleep Stages and Arousals](:pages_path:/mop/5-08-01-scoring-sleep-stages-and-arousals.md)
+      - 5.8.1.1 Rules for assigning epoch-specific sleep score
+      - 5.8.1.2 Sleep onset
+      - 5.8.1.3 EEG arousal
+      - 5.8.1.4 Arousals in REM
+      - 5.8.1.5 Rules for assigning sleep stages when arousal is present in the epoch
+      - 5.8.1.6 Episodic events in sleep
+      - 5.8.1.7 Rules for assigning sleep stages
+  - [5.8.2 Scoring Respiratory Events](:pages_path:/mop/5-08-02-scoring-respiratory-events.md)
+  - [5.8.3 Nasal Flow Limitation](:pages_path:/mop/5-08-03-nasal-flow-limitation.md)
+  - [5.8.4 Scoring Periodic Leg Movements](:pages_path:/mop/5-08-04-scoring-periodic-leg-movements.md)
 - [5.9 QS Form - Scoring Notes](:pages_path:/mop/5-09-qs-form-scoring-notes.md)
-- [5.10 Quality Assurance and Quality Control](:pages_path:/mop/5-10-quality-assurance-and-quality-control.md)
-  - 5.10.1 Weekly QA Exercises at the SRC
-  - 5.10.2 Tracking of QA/QC Data
-  - 5.10.3 Outlier Checks
-  - 5.10.4 External Review of Scoring Reliability
+- 5.10 Quality Assurance and Quality Control
+  - [5.10.1 Weekly QA Exercises at the SRC](:pages_path:/mop/5-10-01-weekly-qa-exercises-at-the-src.md)
+  - [5.10.2 Tracking of QA/QC Data](:pages_path:/mop/5-10-02-tracking-of-qa-qc-data.md)
+  - [5.10.3 Outlier Checks](:pages_path:/mop/5-10-03-outlier-checks.md)
+  - [5.10.4 External Review of Scoring Reliability](:pages_path:/mop/5-10-04-external-review-of-scoring-reliability.md)
 
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
