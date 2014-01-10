@@ -1,11 +1,6 @@
 ## 5.8.3 Nasal Flow Limitation
 
-
-
-
-
-
-
+Nasal flow limitation is derived from the nasal cannula signal. A normal flow signal will present a regular sinus rhythm and curve.  Flow limitation may occur with increase upper airway resistance, not sufficient enough to cause discrete apneas and hypopneas. A regular sinus curve will transform into a signal that resembles a lower case ‘h’.
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
