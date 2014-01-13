@@ -6,9 +6,7 @@ The CHAT is a multi-center, single-blind, randomized, controlled trial designed 
 
 When citing this dataset please use:
 
-```
-Redline, S., et al. "Childhood Adenotonsillectomy Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/chat.
-```
+> Redline, S., et al. "Childhood Adenotonsillectomy Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/chat.
 
 ## Documentation
 
