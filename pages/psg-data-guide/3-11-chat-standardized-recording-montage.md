@@ -1,4 +1,4 @@
-## 1.1 CHAT Standardized Recording Montage
+## 3.1.1 CHAT Standardized Recording Montage
 
 - Sampling rates for signal collection are minimum rates and may be exceeded depending on rates offered by the acquisition system. Sampling rates should be the same among like channels (i.e. EEG, EMG, Respiratory).
 - Signals were be collected unfiltered (at hardware settings). This may vary according to the acquisition system. 60 Hz filter may used during collection.
@@ -93,18 +93,18 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/10-data-aquisition.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-10-data-aquisition.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    1. Data Acquisition
+    3.1 Data Acquisition
   </a>
 
-  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/12-display-montage.md" class="btn btn-success">
-    1.2 Display Montage
+  <a href=":pages_path:/psg-data-guide/3-12-display-montage.md" class="btn btn-success">
+    3.1.2 Display Montage
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

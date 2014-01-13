@@ -1,4 +1,4 @@
-## 1. Data Acquisition
+## 3.1 Data Acquisition
 
 Data collection for PSG was standardized among various manufactured instruments by use of standardized collection and display montages (see tables in this section). Each unit used for collection was certified before use to maximize signal quality integrity throughout the EDF conversion and import into Compumedics Profusion software used for scoring. Technicians performing CHAT studies also underwent a formal certification procedure.
 
@@ -22,18 +22,18 @@ Although initial CHAT sites were required to use a Nonin Oximeter board and Nova
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/README.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    README.md
+    Table of Contents
   </a>
 
-  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/11-chat-standardized-recording-montage.md" class="btn btn-success">
-    1.1 CHAT Standardized Recording Montage
+  <a href=":pages_path:/psg-data-guide/3-11-chat-standardized-recording-montage.md" class="btn btn-success">
+    3.1.1 CHAT Standardized Recording Montage
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

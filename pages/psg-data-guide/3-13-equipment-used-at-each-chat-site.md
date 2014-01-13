@@ -1,4 +1,4 @@
-## 1.3 Equipment Used at each CHAT Site
+## 3.1.3 Equipment Used at each CHAT Site
 
 ### Table 3: Equipment Used at Each CHAT Site
 
@@ -62,18 +62,18 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/12-display-montage.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-12-display-montage.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    1.2 Display Montage
+    3.1.2 Display Montage
   </a>
 
-  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/20-condensed-data-dictionary.md" class="btn btn-success">
-    2. Condensed Data Dictionary
+  <a href=":pages_path:/psg-data-guide/3-20-condensed-data-dictionary.md" class="btn btn-success">
+    3.2 Condensed Data Dictionary
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

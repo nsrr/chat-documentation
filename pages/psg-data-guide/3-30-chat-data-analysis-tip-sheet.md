@@ -1,8 +1,8 @@
-## 3. CHAT Data Analysis Tip Sheet
+## 3.3 CHAT Data Analysis Tip Sheet
 
 The following summarized some PSG variables of likely interest to CHAT investigators:
 
-### 3.1 Summary of interesting PSG Variables
+### 3.3.1 Summary of interesting PSG Variables
 
 | Name                                            |     |  Category     |     #  |  Description                               |
 |:------------------------------------------------|:---:|:--------------|-------:|:-------------------------------------------|
@@ -32,7 +32,7 @@ The following summarized some PSG variables of likely interest to CHAT investiga
 |  [omahi3o](/collection?d=chat&s=omahi3o)        |  1  |  Respiratory  |  1458  |  Filtered: Non-Supine CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
 
 
-### 3.2 Suggestions, Transformations, and Derivations of Key Variables
+### 3.3.2 Suggestions, Transformations, and Derivations of Key Variables
 
 <div class="bs-callout bs-callout-info">
   <p>
@@ -91,12 +91,12 @@ Drawbacks:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/20-condensed-data-dictionary.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-20-condensed-data-dictionary.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    2. Condensed Data Dictionary
+    3.2 Condensed Data Dictionary
   </a>
 
-  <a href=":pages_path:/psg-data-guide/00-psg-data-guide-toc.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     PSG Data Guide
   </a>

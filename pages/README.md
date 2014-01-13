@@ -12,7 +12,7 @@ Redline, S., et al. "Childhood Adenotonsillectomy Study." National Sleep Researc
 
 ## Documentation
 
-- [3. PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/00-psg-data-guide-toc.md)
+- [3. PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md)
 - [4. CHAT Reliability ICCs](:pages_path:/4-reliability-chat.md)
 - [5. Polysomnography Reading Center (PRC) Manual of Operations](:pages_path:/mop/5-00-mop-toc.md)
 
