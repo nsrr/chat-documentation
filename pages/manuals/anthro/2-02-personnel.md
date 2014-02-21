@@ -23,7 +23,7 @@ states, and records it on the Anthropometry form.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthro/2-01-anthro-purpose.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthro/2-01-purpose.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     2.1 Purpose
   </a>
