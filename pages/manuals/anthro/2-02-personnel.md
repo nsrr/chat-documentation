@@ -33,7 +33,7 @@ states, and records it on the Anthropometry form.
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/ampb/2-03-equipment.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthro/2-03-equipment.md" class="btn btn-success">
     2.3 Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
