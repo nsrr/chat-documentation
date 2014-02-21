@@ -26,8 +26,8 @@ of 280 mmHg.
 > * On auscultated systolic: add 4
 > * On auscultated diastolic: subtract 4
 
->> **This revised blood pressure (aus sys +4/ aus dias -4) should be within 10
->> mmHg points of the Spacelab blood pressure reading.**
+> _**This revised blood pressure (aus sys +4/ aus dias -4) should be within 10
+> mmHg points of the Spacelab blood pressure reading.**_
 
 #### 1.2.2 Subject Device Accountability Log
 Monitors must be signed out on the Subject Device Accountability Log [DEVICE], an
