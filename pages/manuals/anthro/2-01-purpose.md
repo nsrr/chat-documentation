@@ -22,7 +22,7 @@ weight, and waist, hip and neck circumferences.
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/ampb/2-02-personnel.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthro/2-02-personnel.md" class="btn btn-success">
     2.2 Personnel
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
