@@ -14,7 +14,7 @@ provides equal and consistent tension for all examiners).
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthro/2-02-anthro-personnel.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthro/2-02-personnel.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     2.2 Personnel
   </a>
