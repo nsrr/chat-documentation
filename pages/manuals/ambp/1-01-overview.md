@@ -48,7 +48,7 @@ measurement.
     Table of Contents
   </a>
 
-  <a href=":pages_path:/manuals/ampb/1-00-ambp-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ampb" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     24-Hour Ambulatory Blood Pressure
   </a>
