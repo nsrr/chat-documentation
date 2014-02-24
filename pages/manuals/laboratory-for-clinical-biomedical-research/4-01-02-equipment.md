@@ -5,11 +5,15 @@ The following supplies are recommended by the LCBR:
 * Aliquots - 1.5 mL skirted cryovials, 4.0mL tall tubes,
 * 9.0 mL tube with colored caps
 * <u>Sarstedt 4.0 mL cryovial</u> (for Lipid Profile): Catalog # 62.611 Fisher Scientific:
+
 USA Scientific 1.5 cryovials and caps for blood samples:
+
 * purple caps Catalog # 1470-0505
 * red caps Catalog # 1470-0504
 * 1.5mL cryovials Catalog # 1415-4700
+
 Blood collection requires the following supplies:
+
 * Lab coats and gloves
 * Basin (just in case)
 * Washcloths/Towels
