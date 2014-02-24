@@ -15,15 +15,15 @@ the way to 0 mm Hg, record the 4th phase DBP as follows_:
 > must record the resting blood pressure on the BP CRF as: SBP is defined as
 > Kortokoff 1 (K1) and DBP as Korotoff 5 (K5).**
 
-The American Heart Association (1980) defines the K-sounds as follows. (American
+The American Heart Association (1980) defines the K-sounds as follows: (American
 Heart Association. _Recommendation for Human Blood Pressure Determination by
 Sphygmomanometer._ Dallas, American Heart Association, 1980).
 
-Phase I: The point marked by the first appearance of faint, clear tapping sounds
+* Phase I: The point marked by the first appearance of faint, clear tapping sounds
 that gradually increase in intensity.
-Phase IV: The point marked by the distinct, abrupt muffling of sound so that a soft,
+* Phase IV: The point marked by the distinct, abrupt muffling of sound so that a soft,
 blowing quality is heard.
-Phase V: The point at which the sound disappears.
+* Phase V: The point at which the sound disappears.
 
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
