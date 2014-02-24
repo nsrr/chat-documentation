@@ -11,12 +11,12 @@
  * [4.2.3 Description of Collection Tubes](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-03-description-of-collection-tubes.md)
  * [4.2.4 Venipuncture](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-04-venipuncture.md)
  * 4.2.5 Preparation
-   * [4.2.5.1 Preparation of Participants for Phelbotomy](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-01-preparation-of-pt.md)
-   * [4.2.5.2 Phlebotomy/Processing Rooms](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-02-phlebotomy-processing-rooms.md)
-   * [4.2.5.3 Priority of Tubes](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-03-priority-of-tubes.md)
-   * [4.2.5.4 Summary of Blood Mixing During Venipuncture](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-04-summary-of-blood-mixing.md)
-   * [4.2.5.5 Setup of Draw Tube and Aliquot Racks](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-05-set-up-of-draw-tube.md)
-   * [4.2.5.6 Preparation for Specimen Collection](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-06-preparation-for-specimen-collection.md)
+    * [4.2.5.1 Preparation of Participants for Phelbotomy](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-01-preparation-of-pt.md)
+    * [4.2.5.2 Phlebotomy/Processing Rooms](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-02-phlebotomy-processing-rooms.md)
+    * [4.2.5.3 Priority of Tubes](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-03-priority-of-tubes.md)
+    * [4.2.5.4 Summary of Blood Mixing During Venipuncture](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-04-summary-of-blood-mixing.md)
+    * [4.2.5.5 Setup of Draw Tube and Aliquot Racks](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-05-set-up-of-draw-tube.md)
+    * [4.2.5.6 Preparation for Specimen Collection](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-05-06-preparation-for-specimen-collection.md)
  * [4.2.6 Venipuncture Procedure](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-06-venipuncture-procedure.md)
  * [4.2.7 Troubleshooting](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-07-troubleshooting.md)
 * 4.3 Processing
