@@ -40,17 +40,17 @@ return the monitor within 2 days (if possible) of the 24 hour reading.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ampb/1-01-ambp-overview.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-01-ambp-overview.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     1.1 Overview
   </a>
 
-  <a href=":pages_path:/manuals/ampb/" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     24-Hour Ambulatory Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/ampb/1-03-cuff-size-determination" class="btn btn-success">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-03-cuff-size-determination" class="btn btn-success">
     1.3 Cuff Size Determination
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

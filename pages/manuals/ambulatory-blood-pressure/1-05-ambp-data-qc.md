@@ -23,17 +23,17 @@ artifactual readings _(BP Quality Form)_.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ampb/1-04-placement-of-ambp-cuff.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-04-placement-of-ambp-cuff.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     1.4 Placement of AMBP Cuff
   </a>
 
-  <a href=":pages_path:/manuals/ampb/" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     24-Hour Ambulatory Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/ampb/1-06-qc-of-blood-pressure.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-06-qc-of-blood-pressure.md" class="btn btn-success">
     1.6 Quality Control of Blood Pressure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

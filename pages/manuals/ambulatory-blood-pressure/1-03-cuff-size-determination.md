@@ -12,17 +12,17 @@ Manual). If the measurement falls between sizes it is better to use a larger siz
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ampb/1-02-equipment.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-02-equipment.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     1.2 Equipment
   </a>
 
-  <a href=":pages_path:/manuals/ampb" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     24-Hour Ambulatory Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/ampb/1-04-placement-of-ambp-cuff.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-04-placement-of-ambp-cuff.md" class="btn btn-success">
     1.4 Placement of AMBP Cuff
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

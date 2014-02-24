@@ -18,12 +18,12 @@ monitor will be checked by the department of clinical engineering for
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ampb/" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     1.5 AMBP Data Quality Control
   </a>
 
-  <a href=":pages_path:/manuals/ampb/1-00-ambp-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-00-ambp-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     24-Hour Ambulatory Blood Pressure
   </a>
