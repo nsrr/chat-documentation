@@ -20,11 +20,11 @@
  * [4.2.6 Venipuncture Procedure](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-06-venipuncture-procedure.md)
  * [4.2.7 Troubleshooting](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-02-07-troubleshooting.md)
 * 4.3 Processing
- * 4.3.1 [Overview](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-01-processing-overview.md)
- * 4.3.2 [Daily Preparation](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-02-daily-preparation.md)
- * 4.3.3 [Centrifugation - EDTA](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-03-centrifugation-edta.md)
- * 4.3.4 [Centrifugation - Serum](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-04-centrifugation-serum.md)
- * 4.3.5 [Aliquoting Sample Tubes](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-05-aliquoting-sample-tubes.md)
- * 4.3.6 [Processing Completion](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-06-processing-completion.md)
+ * [4.3.1 Overview](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-01-processing-overview.md)
+ * [4.3.2 Daily Preparation](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-02-daily-preparation.md)
+ * [4.3.3 Centrifugation - EDTA](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-03-centrifugation-edta.md)
+ * [4.3.4 Centrifugation - Serum](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-04-centrifugation-serum.md)
+ * [4.3.5 Aliquoting Sample Tubes](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-05-aliquoting-sample-tubes.md)
+ * [4.3.6 Processing Completion](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-06-processing-completion.md)
 * [4.4 Assay Data Transfer and Alert Notification](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-assay-data-transfer-and-alert.md)
  * 4.4.1 Alerts
