@@ -61,12 +61,12 @@ MISSING_IMAGE
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthro/2-07-subject-preparation.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/2-07-subject-preparation.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     2.7 Subject Preparation
   </a>
 
-  <a href=":pages_path:/manuals/anthro" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Anthropometry
   </a>

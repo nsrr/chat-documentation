@@ -23,17 +23,17 @@ CHAT Study Coordinator._
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthro/2-05-certification.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/2-05-certification.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     2.5 Certification
   </a>
 
-  <a href=":pages_path:/manuals/anthro" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/anthro/2-07-subject-preparation.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/2-07-subject-preparation.md" class="btn btn-success">
     2.7 Subject Preparation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

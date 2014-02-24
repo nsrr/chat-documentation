@@ -14,17 +14,17 @@ provides equal and consistent tension for all examiners).
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthro/2-02-personnel.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/2-02-personnel.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     2.2 Personnel
   </a>
 
-  <a href=":pages_path:/manuals/anthro" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/anthro/2-04-quality-assurance.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/2-04-quality-assurance.md" class="btn btn-success">
     2.4 Quality Assurance
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

@@ -23,17 +23,17 @@ states, and records it on the Anthropometry form.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthro/2-01-purpose.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/2-01-purpose.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     2.1 Purpose
   </a>
 
-  <a href=":pages_path:/manuals/anthro" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/anthro/2-03-equipment.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/2-03-equipment.md" class="btn btn-success">
     2.3 Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
