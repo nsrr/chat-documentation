@@ -9,7 +9,7 @@ Preparation for specimen collection is done in the following manner.  Prior to a
 5. Approximately 10 minutes before scheduled blood specimen collection, fill styrofoam ice bath 3/4 full with crushed ice.
 
 
-hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
 <div class="btn-group">
