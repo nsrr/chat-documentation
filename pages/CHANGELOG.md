@@ -1,12 +1,12 @@
 ### January 10, 2014
 
-- Completed adding the [Manual of Operations](:pages_path:/mop)
+- Completed adding the [Manual of Operations](:pages_path:/manuals/polysomnography-reading-center)
 
 ### January 9, 2014
 
 - Completed adding the [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide)
 - Added [CHAT Reliability ICCs](:pages_path:/4-reliability-chat.md)
-- Started adding the [Manual of Operations](:pages_path:/mop)
+- Started adding the [Manual of Operations](:pages_path:/manuals/polysomnography-reading-center)
 
 ### January 8, 2014
 
