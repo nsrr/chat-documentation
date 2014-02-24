@@ -53,7 +53,7 @@ measurement.
     24-Hour Ambulatory Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-02-equipment" class="btn btn-success">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-02-equipment.md" class="btn btn-success">
     1.2 Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
