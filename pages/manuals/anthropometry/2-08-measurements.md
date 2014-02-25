@@ -14,9 +14,9 @@ measuring rod is gently lowered to the crown of the head, so that the hair is pr
 For children with corn rows, use a sliding caliper to measure the height of the plaits and
 adjust the measurement by subtracting this distance from the overall height.
 
-MISSING_IMAGE
-
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/anthro-01.png">
+</div>
 
 ### 2.8.2 Weight
 Weight is measured to the nearest 0.1 kg using a digital Healthometer digital scale in
@@ -54,7 +54,9 @@ Neck size is determined with a non-stretchable cloth measuring tape to the neare
 measuring at the point below the thyroid prominence, keeping the tape perpendicular to
 the horizontal axis of the neck. Take measurement three times, recording each
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/anthro-02.png">
+</div>
 
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>

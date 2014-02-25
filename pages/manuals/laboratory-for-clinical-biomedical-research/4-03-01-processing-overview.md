@@ -5,7 +5,9 @@ Processing should be initiated as soon as possible (< 30 minutes) following veni
 
 **Description of Aliquots**
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/aliquots-01.png">
+</div>
 
 Above left to right: Lipid Tube, Transfer Tube for Packed Cells, Cryovials
 
