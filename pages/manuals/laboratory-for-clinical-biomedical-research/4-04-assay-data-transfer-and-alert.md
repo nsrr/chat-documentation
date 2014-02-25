@@ -1,4 +1,4 @@
-## 4.0 Assay Data Transfer and Alert Notification
+## 4.4 Assay Data Transfer and Alert Notification
 
 Upon receipt at the LBCR, a receipt recording number of samples, volume, and
 participants data received from will be generated and sent to the Field Center and to the
@@ -11,14 +11,14 @@ time, any level of glucose, total cholesterol or triglyceride exceeding the foll
 thresholds, will be flagged. An email alert will be issued to the respective Clinical Site PI
 and Study Coordinator, with a copy to the DCC.
 
-### 4.1 Alerts
+### 4.4.1 Alerts
 
  * Glucose > 125 mg/dl
  * Cholesterol > 199 mg/dl
  * Triglyceride > 149 mg/dl
 
 
- <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
 <div class="btn-group">
