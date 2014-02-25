@@ -15,4 +15,22 @@
  * 2.8.2 Weight
  * 2.8.3 Hip Circumference
  * 2.8.4 Waist Circumference
- * 2.8.5 Neck Size 
+ * 2.8.5 Neck Size
+
+
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+
+<div class="center">
+<div class="btn-group">
+
+  <a href=":pages_path:/manuals/manuals-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    Table of Contents - Manuals
+  </a>
+
+  <a href=":pages_path:/manuals/anthropometry/2-01-purpose.md" class="btn btn-success">
+    2.1 Purpose
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>

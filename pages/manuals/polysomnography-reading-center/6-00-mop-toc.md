@@ -60,9 +60,10 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/README.md" class="btn btn-default">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-    README.md
+
+  <a href=":pages_path:/manuals/manuals-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/polysomnography-reading-center/6-01-objectives.md" class="btn btn-success">

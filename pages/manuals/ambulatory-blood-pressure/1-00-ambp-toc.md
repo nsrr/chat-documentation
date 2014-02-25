@@ -12,3 +12,20 @@
  * 1.4.4 Research Coordinator
 * [1.5 AMBP Data Quality Control](:pages_path:/manuals/ambulatory-blood-pressure/1-05-ambp-data-qc.md)
 * [1.6 Quality Control of Blood Pressure](:pages_path:/manuals/ambulatory-blood-pressure/1-06-qc-of-blood-pressure.md)
+
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+
+<div class="center">
+<div class="btn-group">
+
+  <a href=":pages_path:/manuals/manuals-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    Table of Contents - Manuals
+  </a>
+
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/1-01-overview.md" class="btn btn-success">
+    1.1 Overview
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>

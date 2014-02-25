@@ -37,8 +37,8 @@ baseline and month 7, primary endpoint visit.
     Laboratory for Clinical Biomedical Research
   </a>
 
-  <a href=":pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-01-01-background-and-rationale.md" class="btn btn-success">
-    4.1.1 Background and Rationale
+  <a href=":pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-01-02-equipment.md" class="btn btn-success">
+    4.1.2 Equipment and Supplies
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
