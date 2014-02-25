@@ -12,7 +12,7 @@ participant);
 average of 3 readings per practice study subject.
 
 _Note:_ Research staff who did not participate in central training may be trained
-and certified by the CHAT-certified coordinator.\
+and certified by the CHAT-certified coordinator.
 
 ### _To assure accuracy and ongoing training:_
 1. Every month, each anthropometrist will be observed measuring one
