@@ -11,7 +11,7 @@ not to disturb the top of the cell layer with the pipette tip, as this will resu
 platelet, white cell and red cell contamination
 4. Use a new pipette tip for each draw tube.
 5. Once the sample is aliquoted, cryovials should be immediately frozen in an upright
-position at -70oC or colder or promptly placed on dry ice for quick freezing.
+position at -70°C or colder or promptly placed on dry ice for quick freezing.
 
 If any tubes are accidentally mixed during pipetting so that plasma is contaminated with red
 cells, they may be recentrifuged.

@@ -1,6 +1,12 @@
 ## 3.2.2 Chart: Cuff Size Indiciated by Measured Arm Circumference
 
-MISSING_CHART
+|  ARM CIRCUMFERENCE (cm)  |  CUFF SIZE (cm)*         |
+|:------------------------:|:-------------------------|
+|  UP to 5.9               |  "newborn"               |
+|  6.0 to 16.0             |  "infant"                |
+|  16.1 to 26.0            |  "child" or "pediatric"  |
+|  25.5 to 40.6            |  "adult" or "regular"    |
+|  34.2 to 50.8            |  "adult large"           |
 
 _Bladder widths shown are at least 40% of the largest corresponding arm
 circumferences._
