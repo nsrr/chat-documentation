@@ -5,7 +5,7 @@
 * [Blood Pressure (Resting)](:pages_path:/manuals/resting-blood-pressure/3-00-resting-toc.md)
 * [Laboratory for Clinical Biochemical Research (LCBR)](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-00-lcbr-toc.md)
 * Neuropsychological (NP)
-* [Polysomnography (PSG) Reading Center](:pages_path:/manuals/polysomnography-reading-center/5-00-mop-toc.md)
+* [Polysomnography (PSG) Reading Center](:pages_path:/manuals/polysomnography-reading-center/6-00-mop-toc.md)
 * Surgical (SQCC)
 * Supplemental Material for Parents/Child/Teacher
 * Step-by-Step CRF Completion Guide

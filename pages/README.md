@@ -10,9 +10,12 @@ When citing this dataset please use:
 
 ## Documentation
 
-- [3. PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md)
-- [4. CHAT Reliability ICCs](:pages_path:/4-reliability-chat.md)
-- [5. Polysomnography Reading Center (PRC) Manual of Operations](:pages_path:/manuals/polysomnography-reading-center/5-00-mop-toc.md)
+- [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md)
+- [CHAT Reliability ICCs](:pages_path:/4-reliability-chat.md)
+
+## Manuals
+
+- [Manuals](:pages_path:/manuals/manuals-toc.md)
 
 ## References
 
