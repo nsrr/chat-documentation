@@ -12,32 +12,32 @@ possible, only the same individual will contact the teacher.
     * Teachers will be approached at all three time points
     * Solicitation and collection of teacher questionnaires will be responsibility
 of research coordinator
-    * Permission to contact, as well as identification of a teacher who knows
+     * Permission to contact, as well as identification of a teacher who knows
 the student best, will be obtained from parents at the time of consent and
 at each time the follow-up visits are scheduled if necessary.
-    * Teacher questionnaires and brief cover letters explaining their purpose,
+     * Teacher questionnaires and brief cover letters explaining their purpose,
 and a postage-paid return envelope will be mailed to the teacher.
 (Sample template letter is in Appendix H of the CHAT Master Manual of
 Procedures). Optimal time to mail baseline forms are at time of consent.
 Unless a follow-up assessment occurs during the summer or prior to
 October 1st of a new school year, mailings should occur between 2-4
 weeks prior to the 6- and 12-month follow-ups.
-    * If a baseline assessment is to be conducted in the summer or prior to
+     * If a baseline assessment is to be conducted in the summer or prior to
 October 1st of a new school year, the teacher from the previous academic
 year will be identified and contacted. If a baseline teacher questionnaire
 packet has not been returned by one weekend after a child’s baseline and
 follow up assessment session, the unblinded coordinator will call the
 teacher to inquire if he or she has any questions about the process or
 needs another packet.
-    * If a follow-up assessment is to be conducted in the summer or prior to
+     * If a follow-up assessment is to be conducted in the summer or prior to
 October 1st of a new school year, the teacher packet should be held and
 mailed soon after October 1st, to the teacher from the new school year. If
 that packet is not returned within three weeks, the unblinded coordinator
 will call the teacher to inquire if he or she has any questions about the
 process or needs another packet
-    * After returning teacher questionnaires, teachers will receive a $10
+     * After returning teacher questionnaires, teachers will receive a $10
 honorarium from each site.
-    * After receipt of the teacher-completed questionnaires, the research
+     * After receipt of the teacher-completed questionnaires, the research
 coordinator will deliver the forms to the psychometrists for scoring and
 data recording
 
