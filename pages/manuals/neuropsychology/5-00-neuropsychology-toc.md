@@ -20,7 +20,7 @@
  * [5.6.1 General Procedures](:pages_path:/manuals/neuropsychology/5-06-01-general-procedures.md)
  * [5.6.2 Procedures for Behavioral and Functional Measures Administered by NP Staff](:pages_path:/manuals/neuropsychology/5-06-02-procedures-behavioral-functional-measures.md)
  * [5.6.3 Procedures for Teacher Completed Forms](:pages_path:/manuals/neuropsychology/5-06-03-procedures-teacher-completion-forms.md)
- * [5.6.4 Procedures for CDI and Peds QL](:pages_path:/manuals/neuropsychology/5-06-04-procedures-cdi-peds-ql.md
+ * [5.6.4 Procedures for CDI and Peds QL](:pages_path:/manuals/neuropsychology/5-06-04-procedures-cdi-peds-ql.md)
 * [5.7.0 NP Test Randomization](:pages_path:/manuals/neuropsychology/5-07-00-np-test-randomization.md)
  * [5.7.1 NP Test Battery Version 1](:pages_path:/manuals/neuropsychology/5-07-01-np-test-battery-v1.md)
  * [5.7.2 NP Test Battery Version 2](:pages_path:/manuals/neuropsychology/5-07-02-np-test-battery-v2.md)
