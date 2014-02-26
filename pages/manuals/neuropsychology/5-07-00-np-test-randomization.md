@@ -9,7 +9,7 @@ subject at the testing time points, in order to be sure versions are altered and
 version is used at both testing time points for each participant.
 
 
-hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
 <div class="btn-group">
