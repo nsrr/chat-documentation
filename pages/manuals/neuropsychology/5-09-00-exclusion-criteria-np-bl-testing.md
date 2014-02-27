@@ -10,8 +10,7 @@ performance appears poor, be sure DAS-II is scored within 48 hours)
 
   * If at all possible, information should be given to the Coordinator related to the
 performance of the child on the DAS-II concerning the = 55 cut-off prior to the
-family leaving after baseline NP testing, so that randomization can take place.
-  * Examiners should be as familiar a possible with the criteria and scoring system,
+family leaving after baseline NP testing, so that randomization can take place
 so that they can inform the coordinator if the child looks like they may be scoring
 in the neighborhood of the cut-off. Most likely, this will involve the examiner
 having to drop below most all expected item sets.
@@ -27,7 +26,7 @@ and give timely feedback.
 (NPAB) related to the status of Follow-Up procedures for the child (i.e., “Parent
 Informed?”, “Site PI Informed?”, “DCC Informed?”, “Follow-UP?”)
 
-## 9.1 Stop/Safety Change Measure
+## 5.9.1 Stop/Safety Change Measure
 
 * If NP testing reveals a DAS-II summary score of = 69 (summary IQ)
   * The parent/guardian will be notified and the participant will be referred to his
@@ -36,7 +35,7 @@ primary physician.
 * DAS-II Overall IQ decline of 1.5 SD during follow up assessment
   * Complete Neuropsychological Abnormal Test Log (NPAB)
 
-## 9.2 Feedback to Parents
+## 5.9.2 Feedback to Parents
 
 * Feedback to parents will be handled on a site-specific basis in accordance with clinical
 and IRB policies
