@@ -22,6 +22,7 @@
     * Costs: $166.00 for CRS-R introductory kit including manual, 25 parent
 and 25 teacher forms. (MHS also has online scoring available with a
 USB key that is reusable)
+
     * We have been granted a 30% research discount for these measures.
 
 
