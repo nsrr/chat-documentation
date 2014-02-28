@@ -1,4 +1,4 @@
-### 7.2.4.1 Special Instructions for Telescope Equipment
+## 7.2.4.1 Special Instructions for Telescope Equipment
 
 _**Children’s Hospital of Philadelphia (CHOP)**_
 
