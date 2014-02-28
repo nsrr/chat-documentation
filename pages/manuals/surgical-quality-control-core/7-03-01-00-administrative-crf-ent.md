@@ -7,7 +7,7 @@ purposes.
 ### 7.3.1.1 Table of ENT Forms
 
 | Name of Form                | Label (footer of form) | Pages | Arm  | Visit                  | Completed By   |
-|:----------------------------|:----------------------:|:-----:|:----:|:----------------------:|:---------------|
+|:----------------------------|:----------------------:|:-----:|:----:|:-----------------------|:---------------|
 | Pre-Operative Questionnaire | [PREOP]                | 1     | Both | Initial ENT Evaluation | Otolaryngolist |
 | Intra-Operative Data Sheet  | [OPER]                 | 2     | Both | At time of Surgery <br> EAT: Month 1 <br> WWSC Month 9 | Otolaryngolist | 
 | Post-Op Phone Call          | [POST1]                | 1     | Both | Post Surgery (1 month f/u) <br> EAT: Month 2 <br> WWSC: Month 10 | Unblinded Coordinator |
