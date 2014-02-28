@@ -9,7 +9,7 @@ purposes.
 | Name of Form                | Label (footer of form) | Pages | Arm  | Visit                  | Completed By   |
 |:----------------------------|:----------------------:|:-----:|:----:|:----------------------:|:---------------|
 | Pre-Operative Questionnaire | [PREOP]                | 1     | Both | Initial ENT Evaluation | Otolaryngolist |
-| Intra-Operative Data Sheet  | [OPER]                 | 2     | Both | At time of Surgery <br> EAT: Month 1 <br/> <br> WWSC Month 9 </br> | Otolaryngolist | 
+| Intra-Operative Data Sheet  | [OPER]                 | 2     | Both | At time of Surgery <br> EAT: Month 1 <br/> <br> WWSC Month 9 | Otolaryngolist | 
 | Post-Op Phone Call          | [POST1]                | 1     | Both | Post Surgery (1 month f/u) <br> EAT: Month 2 </br> <br> WWSC: Month 10 | Unblinded Coordinator |
 | Post-Op Phone Call/Visit    | [POST2]                | 1     | Both | Post Surgery (3/4 month f/u) <br> EAT: Month 5 </br> <br> WWSC: Month 12 (at visit, not phone call) | Unblinded Coordinator |
 | Re-Evaluation for Surgical Candidacy | [REEV]        | 1     | WWSC | Month 8                | Otolaryngolist |
@@ -32,7 +32,7 @@ purposes.
   </a>
 
   <a href=":pages_path:/manuals/surgical-quality-control-core/7-03-01-02-intra-operative-form.md" class="btn btn-success">
-    7.3.1.2 Intra-Operative Form
+    7.3.1 Administrative and Case Report Forms Related to ENT
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
