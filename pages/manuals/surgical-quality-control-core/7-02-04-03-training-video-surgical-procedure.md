@@ -1,4 +1,4 @@
-### 7.2.4.3 Training Video for Surgical Procedures
+## 7.2.4.3 Training Video for Surgical Procedures
 
 A training video will be available for all participating surgeons outlining the procedures
 for surgical documentation and quality assurance including documentary photographs.
@@ -25,7 +25,7 @@ faxed to the project manager at the Data Coordinating Center.
   </a>
 
   <a href=":pages_path:/manuals/surgical-quality-control-core/7-03-00-role-of-unblinded-rc.md" class="btn btn-success">
-    [7.3.0 Role of Unblinded Research Coordinator
+    7.3.0 Role of Unblinded Research Coordinator
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
