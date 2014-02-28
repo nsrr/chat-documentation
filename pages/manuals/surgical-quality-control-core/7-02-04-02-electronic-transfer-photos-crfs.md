@@ -1,4 +1,4 @@
-### 7.2.4.2 Electronic Transfer of Photos and Corresponding CRF
+## 7.2.4.2 Electronic Transfer of Photos and Corresponding CRF
 
 The corresponding, completed CRF [OPER] will be faxed (or scanned and sent via
 email) when the pre and post-procedure photographs are transmitted electronically to
