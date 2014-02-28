@@ -1,4 +1,4 @@
-## 7.2.3. AT Guidelines
+## 7.2.3 AT Guidelines
 
 The RC will notify the surgeon when a study patient is scheduled for surgery and ensure the
 data collection form is available. To monitor surgical consistency, the surgeon will complete
