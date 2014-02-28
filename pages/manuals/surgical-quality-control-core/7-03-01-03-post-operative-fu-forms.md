@@ -1,4 +1,4 @@
-### 7.3.1.3 Post-Operative Follow Up Forms
+## 7.3.1.3 Post-Operative Follow Up Forms
 
 In addition to the research clinical visits required for all study participants, all subjects will
 be followed 1 month and 3 to 4 months following AT surgery via phone call or clinical
