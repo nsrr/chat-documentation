@@ -22,9 +22,9 @@ and Study Coordinator, with a copy to the DCC.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-06-processing-completion.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-02-03-forms.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.3.6 Processing Completion
+    4.4.2.3 Forms
   </a>
 
   <a href=":pages_path:/manuals/laboratory-for-clinical-biomedical-research" class="btn btn-default">
