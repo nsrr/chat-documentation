@@ -7,6 +7,3 @@
 * [Neuropsychological (NP)](:pages_path:/manuals/neuropsychology/5-00-neuropsychology-toc.md)
 * [Polysomnography (PSG) Reading Center](:pages_path:/manuals/polysomnography-reading-center/6-00-mop-toc.md)
 * [Surgical (SQCC)](:pages_path:/manuals/surgical-quality-control-core/7-00-sqcc-toc.md)
-* Supplemental Material for Parents/Child/Teacher
-* Step-by-Step CRF Completion Guide
-* Tools (Reference Materials)
