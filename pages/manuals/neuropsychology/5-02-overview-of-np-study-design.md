@@ -38,7 +38,7 @@ other specific treatment during the 12 month trial period.”
     Neuropsychology
   </a>
 
-  <a href=":pages_path:/manuals/neuropsychology/5-03-np-study-visits" class="btn btn-success">
+  <a href=":pages_path:/manuals/neuropsychology/5-03-np-study-visits.md" class="btn btn-success">
     5.3.0 NP Study Visits
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

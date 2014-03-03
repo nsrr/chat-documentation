@@ -27,7 +27,7 @@ the response was/was not representative of the child’s actual state.
     Neuropsychology
   </a>
 
-  <a href=":pages_path:/manuals/neuropsychology/5-08-01-suicidal-depression-measurement.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/neuropsychology/5-08-02-site-specific-protocol-notification-fu-care.md" class="btn btn-success">
     5.8.2 Developing a Site-Specific Protocol for Parent Notification and Follow Up Care
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

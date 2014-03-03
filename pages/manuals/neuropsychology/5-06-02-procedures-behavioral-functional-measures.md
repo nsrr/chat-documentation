@@ -1,7 +1,8 @@
 ## 5.6.2 Procedures for Behavioral and Functional Measures Administered by NP Staff
 
-* Parents will be asked to complete several short questionnaires in a separate room while
+Parents will be asked to complete several short questionnaires in a separate room while
 their children are being tested.
+
   * The Conners’ Parent Rating Scale-Revised: Long Version (CPRS-R:L), the
 Behavioral Rating Inventory of Executive Functioning (BRIEF), the Achenbach
 Child Behavior Checklist (ages 6-18) will be given to parents to complete during

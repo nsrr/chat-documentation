@@ -49,3 +49,21 @@
     * 5.11.3.2 Following Years
     * 5.11.3.3 Newsletter and follow-up
 * [5.12 Individual Test Manuals/Instructions](:pages_path:/manuals/neuropsychology/5-12-00-individual-test-instructions.md)
+
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+
+
+<div class="center">
+<div class="btn-group">
+
+  <a href=":pages_path:/manuals/manuals-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    Table of Contents - Manuals
+  </a>
+
+  <a href=":pages_path:/manuals/neuropsychology/5-01-overall-project-goal.md" class="btn btn-success">
+    5.1 Overall Project Goal
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>

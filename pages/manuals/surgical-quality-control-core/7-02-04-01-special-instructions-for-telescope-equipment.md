@@ -12,14 +12,14 @@ _**Louisville Kosair Children’s Hospital (LVL)**_
 Storz has agreed to provide a loaner 120 degree scope as needed, for
 surgical photographs. The unblinded research coordinator must arrange for
 delivery of the scope at least one week in advance of the scheduled surgery,
-if not sooner. 
+if not sooner.
 
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/surgical-quality-control-core/7-02-04-intra-operative-tonsillar-photos.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/surgical-quality-control-core/7-02-04-00-intra-operative-tonsillar-photos.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     7.2.4 Intra-Operatives Tonsillar Photographs
   </a>

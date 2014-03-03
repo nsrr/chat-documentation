@@ -33,3 +33,22 @@
  * [7.5.5 Standardization of Operative Intervention](:pages_path:/manuals/surgical-quality-control-core/7-05-05-standardization-op-intervention.md)
  * [7.5.6 Quality Control by Operative Photos](:pages_path:/manuals/surgical-quality-control-core/7-05-06-ac-op-photos.md)
  * [7.5.7 Surgical Monitoring](:pages_path:/manuals/surgical-quality-control-core/7-05-07-surgical-monitoring.md)
+
+
+<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+
+
+<div class="center">
+<div class="btn-group">
+
+  <a href=":pages_path:/manuals/manuals-toc.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    Table of Contents - Manuals
+  </a>
+
+  <a href=":pages_path:/manuals/surgical-quality-control-core/7-01-01-overview.md" class="btn btn-success">
+    7.1.1 Overview
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>

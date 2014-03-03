@@ -42,7 +42,7 @@ intra-operative data sheet will then be completed and collected by the unblinded
     Surgical Quality Control Core
   </a>
 
-  <a href=":pages_path:/manuals/surgical-quality-control-core/7-02-04-intra-operative-tonsillar-photos.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/surgical-quality-control-core/7-02-04-00-intra-operative-tonsillar-photos.md" class="btn btn-success">
     7.2.4 Intra-Operatives Tonsillar Photographs
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

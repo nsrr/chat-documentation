@@ -37,7 +37,7 @@ for the WWSC arm) may provide an efficient mechanism for collection.
     Surgical Quality Control Core
   </a>
 
-  <a href=":pages_path:/manuals/surgical-quality-control-core/7-03-01-administrative-crf-ent.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/surgical-quality-control-core/7-03-01-00-administrative-crf-ent.md" class="btn btn-success">
     7.3.1 Administrative and Case Report Forms Related to ENT
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
