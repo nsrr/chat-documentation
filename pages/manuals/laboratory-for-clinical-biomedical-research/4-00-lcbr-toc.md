@@ -26,8 +26,14 @@
   * [4.3.4 Centrifugation - Serum](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-04-centrifugation-serum.md)
   * [4.3.5 Aliquoting Sample Tubes](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-05-aliquoting-sample-tubes.md)
   * [4.3.6 Processing Completion](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-03-06-processing-completion.md)
-* [4.4 Assay Data Transfer and Alert Notification](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-assay-data-transfer-and-alert.md)
-  * 4.4.1 Alerts
+* 4.4 Shipping Blood Samples
+  * [4.4.1 General](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-01-general.md)
+  * 4.4.2.0 Packaging Samples
+    * [4.4.2.1 Shipping Checklist](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-02-01-shipping-checklist.md)
+    * [4.4.2.2 Procedure](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-02-02-procedure.md)
+    * [4.4.2.3 Forms](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-02-03-forms.md)
+* [4.5 Assay Data Transfer and Alert Notification](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-05-assay-data-transfer-and-alert.md)
+  * 4.5.1 Alerts
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
