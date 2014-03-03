@@ -21,8 +21,8 @@ Wipe down all work areas with 10% bleach solution (or approved biohazard disinfe
     Laboratory for Clinical Biomedical Research
   </a>
 
-  <a href=":pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-assay-data-transfer-and-alert.md" class="btn btn-success">
-    4.4 Assay Data Transfer and Alert Notification
+  <a href=":pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-04-01-general.md" class="btn btn-success">
+    4.4.1 General
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
