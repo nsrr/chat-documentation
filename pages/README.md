@@ -6,7 +6,11 @@ The CHAT is a multi-center, single-blind, randomized, controlled trial designed 
 
 When citing this dataset please use:
 
-> Redline, S., et al. "Childhood Adenotonsillectomy Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/chat.
+1. The Childhood Adenotonsillectomy Trial (CHAT): rationale, design, and challenges of a randomized controlled trial evaluating a standard surgical procedure in a pediatric population. Redline S, Amin R, Beebe D, Chervin RD, Garetz SL, Giordani B, Marcus CL, Moore RH, Rosen CL, Arens R, Gozal D, Katz ES, Mitchell RB, Muzumdar H, Taylor HG, Thomas N, Ellenberg S.Sleep. 2011 Nov 1;34(11):1509-17. doi: 10.5665/sleep.1388.
+
+2. Redline, S., et al. "Childhood Adenotonsillectomy Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/chat.
+
+Supported by grants: HL083075, HL083129, UL1-RR-024134, UL1 RR024989 from the National Institutes of Health.
 
 ## Documentation
 
@@ -17,12 +21,13 @@ When citing this dataset please use:
 
 - [Manuals](:pages_path:/manuals/manuals-toc.md)
 
-## References
-
-- http://www.nejm.org/doi/full/10.1056/NEJMoa1215881#t
-- http://www.journalsleep.org/ViewAbstract.aspx?pid=28331
-- http://clinicaltrials.gov/show/NCT00560859
-
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
+
+## Publication Links
+
+- [The Childhood Adenotonsillectomy Trial (CHAT): rationale, design, and challenges of a randomized controlled trial evaluating a standard surgical procedure in a pediatric population.](http://www.ncbi.nlm.nih.gov/pubmed/22043122)
+- http://www.nejm.org/doi/full/10.1056/NEJMoa1215881#t
+- http://www.journalsleep.org/ViewAbstract.aspx?pid=28331
+- http://clinicaltrials.gov/show/NCT00560859
