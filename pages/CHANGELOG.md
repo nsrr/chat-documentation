@@ -1,3 +1,7 @@
+### June 27, 2014
+
+- Included link to [ClinicalTrials.gov CHAT page](http://clinicaltrials.gov/show/NCT00560859) in [README](:pages_path:/README.md)
+
 ### January 10, 2014
 
 - Completed adding the [Manual of Operations](:pages_path:/manuals/polysomnography-reading-center)
