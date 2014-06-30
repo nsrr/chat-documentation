@@ -14,6 +14,10 @@ When citing this dataset please use:
 
 Supported by grants (HL083075, HL083129, UL1-RR-024134, UL1 RR024989) from the National Institutes of Health.
 
+## Dataset Download
+
+Coming July 1, 2014.
+
 ## Protocols and Manuals
 
 - [CHAT Protocol](:files_path:/documentation?f=CHAT_Protocol.pdf)
