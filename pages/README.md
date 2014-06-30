@@ -14,14 +14,23 @@ When citing this dataset please use:
 
 Supported by grants (HL083075, HL083129, UL1-RR-024134, UL1 RR024989) from the National Institutes of Health.
 
-## Documentation
+## Protocols and Manuals
+
+- [SHHS1 Protocol](:files_path:/documentation?f=CHAT_Protocol.pdf)
+- [SHHS1 Manual of Procedures](:files_path:/documentation?f=CHAT_Manual_of_Procedures.pdf)
+- [Individual Manuals](:pages_path:/manuals/manuals-toc.md)
+  - [24-hour Ambulatory Blood Pressure (AMBP)](:pages_path:/manuals/ambulatory-blood-pressure/1-00-ambp-toc.md)
+  - [Anthropometry (ANTHRO)](:pages_path:/manuals/anthropometry/2-00-anthro-toc.md)
+  -[Blood Pressure (Resting)](:pages_path:/manuals/resting-blood-pressure/3-00-resting-toc.md)
+  - [Laboratory for Clinical Biochemical Research (LCBR)](:pages_path:/manuals/laboratory-for-clinical-biomedical-research/4-00-lcbr-toc.md)
+  - [Neuropsychological (NP)](:pages_path:/manuals/neuropsychology/5-00-neuropsychology-toc.md)
+  - [Polysomnography (PSG) Reading Center](:pages_path:/manuals/polysomnography-reading-center/6-00-mop-toc.md)
+  - [Surgical (SQCC)](:pages_path:/manuals/surgical-quality-control-core/7-00-sqcc-toc.md)
+
+## Analysis
 
 - [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md)
 - [CHAT Reliability ICCs](:pages_path:/4-reliability-chat.md)
-
-## Manuals
-
-- [Manuals](:pages_path:/manuals/manuals-toc.md)
 
 ## Recent Changes
 

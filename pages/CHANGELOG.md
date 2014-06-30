@@ -1,3 +1,7 @@
+### June 30, 2014
+
+- Added links to Protocol and Manual of Procedures to the README
+
 ### June 27, 2014
 
 - Included link to [ClinicalTrials.gov CHAT page](http://clinicaltrials.gov/show/NCT00560859) in [README](:pages_path:/README.md)
