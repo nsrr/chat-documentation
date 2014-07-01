@@ -1,3 +1,7 @@
+### July 1, 2014
+
+- Release 0.1.0 CHAT dataset and made available on site
+
 ### June 30, 2014
 
 - Added links to Protocol and Manual of Procedures to the README
