@@ -22,6 +22,7 @@ Supported by grants (HL083075, HL083129, UL1-RR-024134, UL1 RR024989) from the N
 
 - [CHAT Protocol](:files_path:/documentation?f=CHAT_Protocol.pdf)
 - [CHAT Manual of Procedures](:files_path:/documentation?f=CHAT_Manual_of_Procedures.pdf)
+- [CHAT Forms](:files_path:/forms)
 - [Individual Manuals](:pages_path:/manuals/manuals-toc.md)
   - [24-hour Ambulatory Blood Pressure (AMBP)](:pages_path:/manuals/ambulatory-blood-pressure/1-00-ambp-toc.md)
   - [Anthropometry (ANTHRO)](:pages_path:/manuals/anthropometry/2-00-anthro-toc.md)
