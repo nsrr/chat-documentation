@@ -2,10 +2,10 @@
 
 The [CHAT dataset](:files_path:/datasets) posted on the NSRR has gone through various post-processing steps in order to prepare the data for more widespread sharing. The source data are from the CHAT Data Coordinating Center at the University of Pennsylvania. Changes and updates to the source data and have been coordinated in the [chat-data-dictionary repository](https://github.com/sleepepi/chat-data-dictionary).
 
-**Disclaimer:** These data are not perfect. Known implausible or impossible values have been tracked and documented in our [https://github.com/sleepepi/chat-data-dictionary/blob/master/KNOWNISSUES.md](KNOWNISSUES list). Please [submit issues](https://github.com/sleepepi/chat-data-dictionary/issues) for any new problematic findings.
+**Disclaimer:** These data are not perfect. Known implausible or impossible values have been tracked and documented in our [KNOWNISSUES list](https://github.com/sleepepi/chat-data-dictionary/blob/master/KNOWNISSUES.md). Please [submit issues](https://github.com/sleepepi/chat-data-dictionary/issues) for any new problematic findings.
 
 ## Structure of the Dataset
 
 The dataset is broken down into `baseline` and `followup` files, each of which contain 464 rows. Participants who withdrew or did not complete the protocol will have a greater prevalence of missing data in the `followup` file.
 
-If you have additional questions about the CHAT dataset, please <a href="mailto:support@sleepdata.org">contact support@sleepdata.org</a>.
+If you have additional questions about the CHAT dataset, please contact <a href="mailto:support@sleepdata.org">support@sleepdata.org</a>.
