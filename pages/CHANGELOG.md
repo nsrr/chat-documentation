@@ -1,5 +1,6 @@
 ### July 2, 2014
 
+- Add Dataset Introduction as a tool to acquaint users to the dataset structure
 - Add link to Forms from README
 
 ### July 1, 2014

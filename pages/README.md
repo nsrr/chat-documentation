@@ -18,6 +18,8 @@ Supported by grants (HL083075, HL083129, UL1-RR-024134, UL1 RR024989) from the N
 
 <a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 6.5 MB
 
+Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
+
 ## Protocols and Manuals
 
 - [CHAT Protocol](:files_path:/documentation?f=CHAT_Protocol.pdf)
