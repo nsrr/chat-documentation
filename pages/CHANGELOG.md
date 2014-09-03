@@ -1,3 +1,7 @@
+### September 4, 2014
+
+- Update count of rows in datasets
+
 ### July 2, 2014
 
 - Add Dataset Introduction as a tool to acquaint users to the dataset structure

@@ -6,6 +6,6 @@ The [CHAT dataset](:files_path:/datasets) posted on the NSRR has gone through va
 
 ## Structure of the Dataset
 
-The dataset is broken down into `baseline` and `followup` files, each of which contain 464 rows. Participants who withdrew or did not complete the protocol will have a greater prevalence of missing data in the `followup` file.
+The dataset is broken down into `baseline` and `followup` files, each of which contain 453 rows. Participants who withdrew or did not complete the protocol will have a greater prevalence of missing data in the `followup` file.
 
 If you have additional questions about the CHAT dataset, please contact <a href="mailto:support@sleepdata.org">support@sleepdata.org</a>.
