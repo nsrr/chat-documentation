@@ -6,30 +6,30 @@ The following summarized some PSG variables of likely interest to CHAT investiga
 
 | Name                                            |     |  Category     |     #  |  Description                               |
 |:------------------------------------------------|:---:|:--------------|-------:|:-------------------------------------------|
-|  [slp_eff](/collection?d=chat&s=slp_eff)        |  1  |  Time         |  1371  |  Filtered: Sleep efficiency %              |
-|  [timest1p](/collection?d=chat&s=timest1p)      |  1  |  Stages       |  1372  |  Filtered: % time stage 1                  |
-|  [timest1](/collection?d=chat&s=timest1)        |  1  |  Stages       |  1373  |  Filtered: Time stage 1 (minutes)          |
-|  [timest2p](/collection?d=chat&s=timest2p)      |  1  |  Stages       |  1374  |  Filtered: % time stage 2                  |
-|  [timest2](/collection?d=chat&s=timest2)        |  1  |  Stages       |  1375  |  Filtered: Time stage 2 (minutes)          |
-|  [times34p](/collection?d=chat&s=times34p)      |  1  |  Stages       |  1376  |  Filtered: % time stage 3-4                |
-|  [timest34](/collection?d=chat&s=timest34)      |  1  |  Stages       |  1377  |  Filtered: Time stage 3-4 (minutes)        |
-|  [timeremp](/collection?d=chat&s=timeremp)      |  1  |  Stages       |  1378  |  Filtered: % time REM                      |
-|  [BPMAVG](/collection?d=chat&s=BPMAVG)          |  1  |  Heart Rate   |  172   |  PSG Report: Average Heart rate (bpm)      |
-|  [omahi3](/collection?d=chat&s=omahi3)          |  1  |  Respiratory  |  1418  |  Filtered: CHAT AHI <br /> (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal) no centrals  |
-|  [omai0p](/collection?d=chat&s=omai0p)          |  1  |  Respiratory  |  1422  |  Filtered: CHAT OAI (Obstructive/Mixed Apnea Index all desats) no centrals  |
-|  [cai0p](/collection?d=chat&s=cai0p)            |  1  |  Respiratory  |  1425  |  Filtered: Central Apnea Index all desats  |
-|  [avgsat](/collection?d=chat&s=avgsat)          |     |  Oxygen       |  1443  |  Filtered: Average SaO2 in sleep           |
-|  [minsat](/collection?d=chat&s=minsat)          |     |  Oxygen       |  1444  |  Filtered: Minimum SaO2 in sleep           |
-|  [AVGPLM](/collection?d=chat&s=AVGPLM)          |  1  |  Legs         |  1025  |  PSG Report: # of PLM per hour of sleep    |
-|  [rCO2PEAK](/collection?d=chat&s=rCO2PEAK)      |  1  |  CO2          |  1445  |  Filtered: Peak EtCO2 Asleep Restricted to QuCap = 3, 4, 5 PSG Report: Peak EtCO2 Asleep  |
-|  [rPCTCO2G45](/collection?d=chat&s=rPCTCO2G45)  |  1  |  CO2          |  1450  |  Filtered: % total sleep time EtCO2 > 45 mmHg  Restricted to QuCap = 3, 4, 5 PSG Report: % total sleep time EtCO2 > 45 mmHg  |
-|  [rPCTCO2G50](/collection?d=chat&s=rPCTCO2G50)  |  1  |  CO2          |  1451  |  Filtered: % total sleep time EtCO2 > 50 mmHg  Restricted to QuCap = 3, 4, 5 PSG Report: % total sleep time EtCO2 > 50 mmHg  |
-|  [pctle92](/collection?d=chat&s=pctle92)        |  1  |  Oxygen       |  1433  |  Filtered : % sleep time SaO2 is <= 92%  Restrict QuOxim = 3, 4, 5 Percent of sleep time with oxygen saturation <= 92%  [100*(Total Number of minutes with SaO2 <= 92) / (total sleep time)].  |
-|  [ai_all](/collection?d=chat&s=ai_all)          |  1  |  Arousals     |  1383  |  Filtered: Overall Arousal Index           |
-|  [omahi3nr](/collection?d=chat&s=omahi3nr)      |  1  |  Respiratory  |  1456  |  Filtered: Non-REM CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
-|  [omahi3r](/collection?d=chat&s=omahi3r)        |  1  |  Respiratory  |  1455  |  Filtered: REM CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
-|  [omahi3b](/collection?d=chat&s=omahi3b)        |  1  |  Respiratory  |  1457  |  Filtered: Supine CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
-|  [omahi3o](/collection?d=chat&s=omahi3o)        |  1  |  Respiratory  |  1458  |  Filtered: Non-Supine CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
+|  [slp_eff](https://sleepdata.org/datasets/chat/variables/slp_eff)        |  1  |  Time         |  1371  |  Filtered: Sleep efficiency %              |
+|  [timest1p](https://sleepdata.org/datasets/chat/variables/timest1p)      |  1  |  Stages       |  1372  |  Filtered: % time stage 1                  |
+|  [timest1](https://sleepdata.org/datasets/chat/variables/timest1)        |  1  |  Stages       |  1373  |  Filtered: Time stage 1 (minutes)          |
+|  [timest2p](https://sleepdata.org/datasets/chat/variables/timest2p)      |  1  |  Stages       |  1374  |  Filtered: % time stage 2                  |
+|  [timest2](https://sleepdata.org/datasets/chat/variables/timest2)        |  1  |  Stages       |  1375  |  Filtered: Time stage 2 (minutes)          |
+|  [times34p](https://sleepdata.org/datasets/chat/variables/times34p)      |  1  |  Stages       |  1376  |  Filtered: % time stage 3-4                |
+|  [timest34](https://sleepdata.org/datasets/chat/variables/timest34)      |  1  |  Stages       |  1377  |  Filtered: Time stage 3-4 (minutes)        |
+|  [timeremp](https://sleepdata.org/datasets/chat/variables/timeremp)      |  1  |  Stages       |  1378  |  Filtered: % time REM                      |
+|  [BPMAVG](https://sleepdata.org/datasets/chat/variables/bpmavg)          |  1  |  Heart Rate   |  172   |  PSG Report: Average Heart rate (bpm)      |
+|  [omahi3](https://sleepdata.org/datasets/chat/variables/omahi3)          |  1  |  Respiratory  |  1418  |  Filtered: CHAT AHI <br /> (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal) no centrals  |
+|  [omai0p](https://sleepdata.org/datasets/chat/variables/omai0p)          |  1  |  Respiratory  |  1422  |  Filtered: CHAT OAI (Obstructive/Mixed Apnea Index all desats) no centrals  |
+|  [cai0p](https://sleepdata.org/datasets/chat/variables/cai0p)            |  1  |  Respiratory  |  1425  |  Filtered: Central Apnea Index all desats  |
+|  [avgsat](https://sleepdata.org/datasets/chat/variables/avgsat)          |     |  Oxygen       |  1443  |  Filtered: Average SaO2 in sleep           |
+|  [minsat](https://sleepdata.org/datasets/chat/variables/minsat)          |     |  Oxygen       |  1444  |  Filtered: Minimum SaO2 in sleep           |
+|  [AVGPLM](https://sleepdata.org/datasets/chat/variables/avgplm)          |  1  |  Legs         |  1025  |  PSG Report: # of PLM per hour of sleep    |
+|  [rCO2PEAK](https://sleepdata.org/datasets/chat/variables/rco2peak)      |  1  |  CO2          |  1445  |  Filtered: Peak EtCO2 Asleep Restricted to QuCap = 3, 4, 5 PSG Report: Peak EtCO2 Asleep  |
+|  [rPCTCO2G45](https://sleepdata.org/datasets/chat/variables/rpctco2g45)  |  1  |  CO2          |  1450  |  Filtered: % total sleep time EtCO2 > 45 mmHg  Restricted to QuCap = 3, 4, 5 PSG Report: % total sleep time EtCO2 > 45 mmHg  |
+|  [rPCTCO2G50](https://sleepdata.org/datasets/chat/variables/rpctco2g50)  |  1  |  CO2          |  1451  |  Filtered: % total sleep time EtCO2 > 50 mmHg  Restricted to QuCap = 3, 4, 5 PSG Report: % total sleep time EtCO2 > 50 mmHg  |
+|  [pctle92](https://sleepdata.org/datasets/chat/variables/pctle92)        |  1  |  Oxygen       |  1433  |  Filtered : % sleep time SaO2 is <= 92%  Restrict QuOxim = 3, 4, 5 Percent of sleep time with oxygen saturation <= 92%  [100*(Total Number of minutes with SaO2 <= 92) / (total sleep time)].  |
+|  [ai_all](https://sleepdata.org/datasets/chat/variables/ai_all)          |  1  |  Arousals     |  1383  |  Filtered: Overall Arousal Index           |
+|  [omahi3nr](https://sleepdata.org/datasets/chat/variables/omahi3nr)      |  1  |  Respiratory  |  1456  |  Filtered: Non-REM CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
+|  [omahi3r](https://sleepdata.org/datasets/chat/variables/omahi3r)        |  1  |  Respiratory  |  1455  |  Filtered: REM CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
+|  [omahi3b](https://sleepdata.org/datasets/chat/variables/omahi3b)        |  1  |  Respiratory  |  1457  |  Filtered: Supine CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
+|  [omahi3o](https://sleepdata.org/datasets/chat/variables/omahi3o)        |  1  |  Respiratory  |  1458  |  Filtered: Non-Supine CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)  |
 
 
 ### 3.3.2 Suggestions, Transformations, and Derivations of Key Variables
