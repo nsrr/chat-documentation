@@ -23,7 +23,7 @@ Quality Codes provide information on which studies may contribute data of differ
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">QS Form Codebook</h3>
+    <span class="panel-title">QS Form Codebook</span>
   </div>
   <div class="center">
   <a href=":images_path:/qs-form-codebook-01.png?inline=1">

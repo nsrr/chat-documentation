@@ -120,7 +120,7 @@ Will be checked "yes" if any criteria for urgent as listed below are met:
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">NSVT Non Sustained V Tachycardia (rate &gt; 120)</h3>
+    <span class="panel-title">NSVT Non Sustained V Tachycardia (rate &gt; 120)</span>
   </div>
   <div class="center">
     <a href=":images_path:/heart-rate-extremes-01.png?inline=1">
@@ -131,7 +131,7 @@ Will be checked "yes" if any criteria for urgent as listed below are met:
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Atrial Flutter, Rate within Limits</h3>
+    <span class="panel-title">Atrial Flutter, Rate within Limits</span>
   </div>
   <div class="center">
     <a href=":images_path:/heart-rate-extremes-02.png?inline=1">
@@ -142,7 +142,7 @@ Will be checked "yes" if any criteria for urgent as listed below are met:
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Atrial fibrillation,  rate > 120</h3>
+    <span class="panel-title">Atrial fibrillation,  rate > 120</span>
   </div>
   <div class="center">
     <a href=":images_path:/heart-rate-extremes-03.png?inline=1">
@@ -153,7 +153,7 @@ Will be checked "yes" if any criteria for urgent as listed below are met:
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Atrial Fib/Flutter,  rate &lt; 50</h3>
+    <span class="panel-title">Atrial Fib/Flutter,  rate &lt; 50</span>
   </div>
   <div class="center">
     <a href=":images_path:/heart-rate-extremes-04.png?inline=1">
