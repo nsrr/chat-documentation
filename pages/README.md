@@ -34,6 +34,9 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
   - [Polysomnography (PSG) Reading Center](:pages_path:/manuals/polysomnography-reading-center/6-00-mop-toc.md)
   - [Surgical (SQCC)](:pages_path:/manuals/surgical-quality-control-core/7-00-sqcc-toc.md)
 
+## Equipment
+- [Montage and Sampling Rate Information](https://sleepdata.org/datasets/chat/pages/equipment/montage-and-sampling-rate-information.md)
+
 ## Analysis
 
 - [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md)
