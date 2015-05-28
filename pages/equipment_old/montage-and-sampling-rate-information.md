@@ -3,7 +3,7 @@
 The settings below represent the standards set at the beginning of the project. There may be a small proportion of studies and signals that do not match these standards exactly. Please review the settings at the individual sleep study level as you proceed with any analyses.
 
 |            Channel           |   Channel Derivation  |  Minimum Sampling Rate (Hz) (may be exceeded)  |                   Sensor Type                    |
-|:----------------------------:|:----------------------|:----------------------------------------------:|:------------------------------------------------:|
+|:----------------------------:|:---------------------:|:----------------------------------------------:|:------------------------------------------------:|
 | REF                          | FPz                   |  200                                           | Gold cup electrode                               |
 | Ground                       | Cz                    |  200                                           | Gold cup electrode                               |
 | E1                           | E1/FPz                |  200                                           | Gold cup electrode or Ag/AgCl patch              |
@@ -41,4 +41,4 @@ The settings below represent the standards set at the beginning of the project. 
 | Snore (Not obligate for CHAT)|                       |  200                                           | Variable by site                                 |
 | Hardware filters : When possible, signals collected unfiltered at hardware settings. Hardware settings may be based on the acquisition system || |
 
-For more information please refer to [Standard Sensors and Placement](https://sleepdata.org/datasets/chat/pages/manuals/polysomnography-reading-center/6-05-05-standard-sensors-and-placement.md) and [Standardized Recording Montage](https://sleepdata.org/datasets/chat/pages/manuals/polysomnography-reading-center/6-05-06-chat-standardized-recording-montage.md)
+For more information please refer to [Standard Sensors and Placement](:pages_path:/manuals/polysomnography-reading-center/6-05-05-standard-sensors-and-placement.md) and [Standardized Recording Montage](:pages_path:/manuals/polysomnography-reading-center/6-05-06-chat-standardized-recording-montage.md)
