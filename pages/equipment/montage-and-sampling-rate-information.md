@@ -39,6 +39,6 @@ The settings below represent the standards set at the beginning of the project. 
 | Cap                          |                       |   32                                           | Salter or Protech Cannual (Dual-end for NP & CO2)|
 | EtCO2                        |                       |   15                                           | Salter of Protech Cannual (Dual-end for NP & CO2)|
 | Snore (Not obligate for CHAT)|                       |  200                                           | Variable by site                                 |
-| Hardware filters : When possible, signals collected unfiltered at hardware settings. Hardware settings may be based on the acquisition system || |
+Hardware filters : When possible, signals collected unfiltered at hardware settings. Hardware settings may be based on the acquisition system
 
 For more information please refer to [Standard Sensors and Placement](:pages_path:/manuals/polysomnography-reading-center/6-05-05-standard-sensors-and-placement.md) and [Standardized Recording Montage](:pages_path:/manuals/polysomnography-reading-center/6-05-06-chat-standardized-recording-montage.md)
