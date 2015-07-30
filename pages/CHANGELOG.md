@@ -1,3 +1,7 @@
+### July 30, 2015
+
+- Fix four (4) corrupt EDFs from followup (300185, 300351, 300853, 301049)
+
 ### September 4, 2014
 
 - Update count of rows in datasets
