@@ -1,3 +1,7 @@
+### July 31, 2015
+
+- Update NSRR XML annotation files to fix issues with duration calculation in first staging period and to not exclude last staging period in output
+
 ### July 30, 2015
 
 - Fix four (4) corrupt EDFs from followup (300185, 300351, 300853, 301049)
