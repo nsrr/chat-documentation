@@ -1,0 +1,39 @@
+# HRV Overview
+
+*Note:* For HRV analysis inquiries, please visit the [NSRR Forum](https://sleepdata.org/forum).
+
+Traditional heart rate variability (HRV) measures are commonly divided into two broad categories: time domain measures and frequency domain measures.
+The time domain HRV statistics include the following measures:
+• AVNN (the average of all the NN intervals),
+• SDNN (the standard deviation of all NN intervals),
+• SDANN (the standard deviation of the averages of NN intervals in all 5-minute segments),
+• SDNNINDX (the mean of the standard deviations of NN intervals in all 5-minute segments),
+• rMSSD (the square root of the mean of the squares of difference between adjacent NN
+• intervals), and
+• pNNx (the percentage of differences between adjacent NN intervals that are > x ms). We used x = 10, 20, 30, 40 and 50 ms.
+
+The frequency domain measures include:
+• TOTPWR (total NN interval spectral power up to 0.4 Hz),
+• ULF (ultra-low frequency power: the NN interval spectral power between 0 and 0.003 Hz of a 24-hour recording),
+• VLF (very low frequency power: the NN interval spectral power between 0.003 and 0.04 Hz),
+• LF (low frequency power: the NN interval spectral power between 0.04 and 0.15 Hz),
+• HF (high frequency power: the NN interval spectral power between 0.15 and 0.4 Hz) and the
+• LF/HF ratio (the ratio of low to high frequency power).
+
+Traditionally frequency domain measures are calculated by resampling the original NN interval series and then applying the fast Fourier transform. This resampling, however, can cause an attenuation in the high frequency components. To eliminate the need for evenly sampled data required by the standard Fourier Transform, frequency domain spectra can be calculated using the Lomb periodogram for unevenly sampled data.
+
+Although the long term (24-hour) statistics of SDANN, SDNNIDX and ULF power can be calculated for shorter data lengths they will become increasingly unreliable. For short term data (less than 15 minutes in length) only the time domain measures of AVNN, SDNN, rMSSD and pNN10, pNN20, pNN30, pNN40 and pNN50,  and the frequency domain measures of total power, VLF power, HF power and LF/HF ratio are computed.
+
+## Sub-analyses
+
+A)  HRV of the entire night -- from sleep onset to sleep termination. This analysis requires the following information: the time of occurrence of each R-wave, and the sleep onset and termination times. These times were extracted from the file containing the sleep stage annotations as the first and last 30 sec episode of stage 1, 2, 3 or 5 (REM), respectively. RR intervals larger than 2.5 seconds were excluded from the analysis.
+
+B)  HRV of consecutive 5-min segments with an overlap of 2.5 min. The results of this analysis were used to quantify HRV by sleep stage with, and without respiratory events.  In addition to restricting the analysis to RR intervals <2.5 s, only 5-min windows with at least 150 normal sinus beats were analyzed.
+
+## Dataset Structure
+
+[Result datasets](:files_path:/datasets/hrv-analysis) have been posted for HRV analysis. Datasets are keyed on `OBF_PPTID`.
+
+## References
+
+1. HRV Toolkit. PhysioNET. http://physionet.org/tutorials/hrv-toolkit/

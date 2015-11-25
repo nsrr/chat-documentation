@@ -1,3 +1,7 @@
+### November 25, 2015
+
+- Add documentation about EEG Spectral Analysis and HRV Analysis
+
 ### August 18, 2015
 
 - Add EDF and XML files for 779 non-randomized CHAT subjects. Within 'files' path these files are placed under 'nonrandomized' folders.
