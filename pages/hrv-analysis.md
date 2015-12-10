@@ -2,16 +2,25 @@
 
 *Note:* For  inquiries, please visit the [NSRR Forum](https://sleepdata.org/forum).
 
+## Methods
+
+As part of the polysomnographic study, continuous electrocardiographic (ECG) signals were recorded at the following sample frequencies: 50 Hz (#2), 200 Hz (#594), 250 Hz (#15), 256 HZ (#176), 512 Hz (#86). A Notch filter of 60Hz was applied.
+
+QRS complexes (R-points) were detected using Compumedics (Abbotsford, VIC, Australia) Somte software Version 2.10 (Builds 99 to 101). The R-points were classified as normal sinus, supraventricular premature complex or ventricular premature complex. The automated annotations were reviewed by a trained technician, who made appropriate corrections.
+
+In this analysis, we follow the Task Force of The European Society of Cardiology and The North American Society of Pacing and Electrophysiology, Heart rate variability (HRV) standards of measurement, physiological interpretation, and clinical use (European Heart Journal, 1996;17:354–81).
+
 Traditional heart rate variability (HRV) measures are commonly divided into two broad categories: time domain measures and frequency domain measures.
 
 The time domain HRV statistics include the following measures:
 
-- AVNN (the average of all the NN intervals)
-- SDNN (the standard deviation of all NN intervals)
-- SDANN (the standard deviation of the averages of NN intervals in all 5-minute segments)
-- SDNNINDX (the mean of the standard deviations of NN intervals in all 5-minute segments)
-- rMSSD (the square root of the mean of the squares of difference between adjacent NN intervals), and
-- pNNx (the percentage of differences between adjacent NN intervals that are > x ms). We used x = 10, 20, 30, 40 and 50 ms.
+- **AVNN** (the average of all the NN intervals)
+- **IHR** (Mean value of instantaneous heart rate. For a given NN interval, the IHR is calculated as 60/NN. IHR is usually expressed as beats per minute but strictly speaking it is unitless.)
+- **SDNN** (the standard deviation of all NN intervals)
+- **SDANN** (the standard deviation of the averages of NN intervals in all 5-minute segments)
+- **SDNNINDX** (the mean of the standard deviations of NN intervals in all 5-minute segments)
+- **rMSSD** (the square root of the mean of the squares of difference between adjacent NN intervals), and
+- **pNNx** (the percentage of differences between adjacent NN intervals that are > x ms). We used x = 10, 20, 30, 40 and 50 ms.
 
 The frequency domain measures include:
 
@@ -30,7 +39,7 @@ Although the long term (24-hour) statistics of SDANN, SDNNIDX and ULF power can 
 
 1. HRV of the entire night -- from sleep onset to sleep termination. This analysis requires the following information: the time of occurrence of each R-wave, and the sleep onset and termination times. These times were extracted from the file containing the sleep stage annotations as the first and last 30 sec episode of stage 1, 2, 3 or 5 (REM), respectively. RR intervals larger than 2.5 seconds were excluded from the analysis.
 
-2. HRV of consecutive 5-min segments with an overlap of 2.5 min. The results of this analysis were used to quantify HRV by sleep stage with, and without respiratory events.  In addition to restricting the analysis to RR intervals <2.5 s, only 5-min windows with at least 150 normal sinus beats were analyzed.
+2. HRV of consecutive 5-min segments with no overlap. The results of this analysis were used to quantify HRV by sleep stage with and without respiratory events.  In addition to restricting the analysis to RR intervals <2.5 s, only 5-min windows with at least 150 normal sinus beats were analyzed.
 
 ## Dataset Structure
 
@@ -38,4 +47,4 @@ Although the long term (24-hour) statistics of SDANN, SDNNIDX and ULF power can 
 
 ## References
 
-1. HRV Toolkit. PhysioNET. http://physionet.org/tutorials/hrv-toolkit/
+The open source code used for this analysis along with a tutorial on its use is available at the NIH-sponsored Research Resource for Complex Physiologic Signals: http://physionet.org/tutorials/hrv-toolkit/

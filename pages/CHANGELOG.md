@@ -1,3 +1,7 @@
+### December 10, 2015
+
+- Add more detail to HRV documentation
+
 ### November 25, 2015
 
 - Add documentation about EEG Spectral Analysis and HRV Analysis
