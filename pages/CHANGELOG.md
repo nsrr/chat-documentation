@@ -1,3 +1,7 @@
+### December 18, 2015
+
+- Release 0.4.0 of dataset and update documentation
+
 ### December 10, 2015
 
 - Add more detail to HRV documentation
