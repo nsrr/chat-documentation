@@ -18,7 +18,7 @@ Blood collection requires the following supplies:
 * Basin (just in case)
 * Washcloths/Towels
 * Plastic cart with wheels for phlebotomy supplies (or plastic tray with compartments)
-* Butterfly needles (21 G) with luer adapter (Butterfly with safety needle 21G ¾ x 12?, B-D
+* Butterfly needles (21 G) with luer adapter (Butterfly with safety needle 21G ¾ x 12", B-D
 Vacutainer 367281)
 * Vacutainer barrels
 * Tourniquets
