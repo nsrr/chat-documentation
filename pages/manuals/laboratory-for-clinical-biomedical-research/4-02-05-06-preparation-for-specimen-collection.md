@@ -2,7 +2,7 @@
 
 Preparation for specimen collection is done in the following manner.  Prior to arrival of any participants:
 
-1. Make sure venipuncture supplies are sticked and the tubes and cryovials are labeled.
+1. Make sure venipuncture supplies are stocked and the tubes and cryovials are labeled.
 2. Check that the sample processing station is properly equipped.  Every item on the checklist must be ready and its proper position.
 3. Make sure the phlebotomy tray or cart is tidy and stocked with basin, wash cloths, and that the draw tube mixer is functional.
 4. Label the tubes and cryovials with the participant ID (if not previously done)
