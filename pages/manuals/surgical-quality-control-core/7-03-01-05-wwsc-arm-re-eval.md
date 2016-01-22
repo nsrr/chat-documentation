@@ -5,7 +5,7 @@ Those patients who were randomized to the Watchful Waiting Supportive Care (WWSC
 arm will be scheduled for ENT re-evaluation at the time of randomization. The reevaluation
 visit will occur within 1-4 weeks of the Month 7 endpoint visit. Symptoms and
 PSG findings will be reviewed and a decision whether to proceed with AT as part of
-routine clinical care will be made. The Surgical Re-Evaluation (Attachment E [REEV]
+routine clinical care will be made. The Surgical Re-Evaluation (Attachment E [REEV])
 form must be completed. If deemed necessary by ENT, AT surgery will be scheduled
 within 1-4 weeks of the ENT re-evaluation.
 
