@@ -55,7 +55,7 @@ temperature.
 * 17. Clean up the venipuncture area (if necessary).  Dispose of needle and
 tubing in the appropriate biohazard needle sharps containers. Comple
 the Phlebotomy Form
-* 18. Bring the filled blood collection tubes to the processing area, keeping th
+* 18. Bring the filled blood collection tubes to the processing area, keeping the
 EDTA tube on ice and the Serum tube at room temperature.
 
 
