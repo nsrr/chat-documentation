@@ -11,9 +11,7 @@ will contact Facilities Engineering or other appropriate parties to correct this
 The scale is calibrated once a week by using 20 k calibrated weights.
 
 ### 2.6.3 Tape measures
-The length of the measuring tape is checked with the calibrated length rod (usually the
-150 cm one) at least once per month. If the measuring tape is stretched or appears to
-have rippled edges it should be replaced. The type of tape measure recommended is
+The length of the measuring tape is checked with the calibrated length rod (usually the 150 cm one) at least once per month. If the measuring tape is stretched or appears to have rippled edges it should be replaced. The type of tape measure recommended is an inelastic metric tape with a lead before the zero mark. Tape for waist and hip must be accurate to 0.1cm, and the tape for the neck should be 0.5cm wide.
 
 _Records of all calibrations should be maintained in a Calibration Log maintained by the
 CHAT Study Coordinator._
