@@ -19,9 +19,10 @@ agreement to return the monitor as soon as the study is completed.
 > The parent/legal guardian/family will be instructed to begin the home BP monitoring
 > prior to bedtime on a non school day for a 24 hour period. For example, Saturday
 > night bedtime is 9:30 PM, and then the cuff will be applied at that time and worn until
-> 9:30 pm on Sunday evening. 12:00 (noon) on the first non-school day following the
-> clinic visit. Teaching will be done with the family on placement and proper use of the
-> AMBP cuff and BP monitor system and an initial blood pressure reading will be taken
+> 9:30 pm on Sunday evening. If the child will be attending school within the subsequent 24 hours,
+> the family will be instructed to begin the home BP monitoring at 12:00 (noon) on the first non-school
+> day following the clinic visit. Teaching will be done with the family on placement and proper use of
+> the AMBP cuff and BP monitor system and an initial blood pressure reading will be taken
 > in the clinic before discharge. The purpose will be to demonstrate to the family the
 > proper use of the BP monitor and also to verify that the equipment is functioning
 > properly before it is sent home with the parent/legal guardian.
