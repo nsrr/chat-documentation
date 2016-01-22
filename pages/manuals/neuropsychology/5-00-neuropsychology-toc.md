@@ -1,7 +1,7 @@
 ## Table of Contents - Neuropsychology
 
 * [5.1 Overall Project Goal](:pages_path:/manuals/neuropsychology/5-01-overall-project-goal.md)
-* [5.2.0 Phlebotomy](:pages_path:/manuals/neuropsychology/5-02-overview-of-np-study-design.md)
+* [5.2.0 Overview of NP Study Design](:pages_path:/manuals/neuropsychology/5-02-overview-of-np-study-design.md)
  * 5.2.1 Participants
  * 5.2.2 Examiners
  * 5.2.3 NP-associated exclusion criteria
