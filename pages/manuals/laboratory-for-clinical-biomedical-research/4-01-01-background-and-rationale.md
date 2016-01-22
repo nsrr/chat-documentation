@@ -13,7 +13,7 @@ and store extra serum and plasma to address changes in other proteins and lipids
 of interest in the relationship to sleep apnea.
 
 The blood samples collected and processed by General Clinical Research Center (GCRC)
-(CHOP, CINN, and CLD (Rainbow Babies) and the laboratory at Kosair technicians are the
+(CHOP, CINN, and CLD (Rainbow Babies)) and the laboratory at Kosair technicians are the
 foundation for many of these tests. The most important step (and potentially the most variable)
 in these tests is the collection and processing of the blood samples. If the blood sample itself is
 not correctly drawn and processed, the laboratory results may not be precise or may not be
