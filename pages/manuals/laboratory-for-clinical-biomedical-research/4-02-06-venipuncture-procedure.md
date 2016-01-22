@@ -12,7 +12,6 @@ _**ALWAYS WEAR HOSPITAL LABORATORY GLOVES AND A LAB COAT**_
 
 * 6. Grasp the participant's arm firmly, using your thumb to draw the skin taut.
 This anchors the vein. The thumb should be 1 or 2 inches below venipuncture site.
-venipuncture site.
 * 7. With the needle bevel upward, enter the vein in a smooth continuous motion.
 * 8. Make sure the participant's arm is in a flat or downward position while
 maintaining the tube below the site when the needle is in the vein. It may
