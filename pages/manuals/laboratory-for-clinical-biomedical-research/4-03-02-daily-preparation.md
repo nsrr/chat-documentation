@@ -15,9 +15,9 @@ The following items should be on hand before beginning processing:
 * Fixed volume pipettes with tips (MLA) or adjustable pipettes (Rainin, Finn, etc) with tips.  Volumes needed to pipette: 1.0 mL and 5,0 mL
 * Cryovial and freezer box labels (provided by the LCBR)
 * REVCO Freezer Boxes 5x5x2" and 5x5x3" and dividers (10x10 and 7x7 grids)
-* Styrogoam/insulated shipping boxes
+* Styrofoam/insulated shipping boxes
 * Refrigerator - for storage of special blood tubes
- 
+
   **_Note:_ Can be a household fridge.  Cannot be the same as a food fridge.**
 
 * Reagent bottles/containers for daily use
