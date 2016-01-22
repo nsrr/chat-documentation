@@ -1,4 +1,4 @@
-## 4.2.6 Venicpuncture Procedure
+## 4.2.6 Venipuncture Procedure
 
 _**ALWAYS WEAR HOSPITAL LABORATORY GLOVES AND A LAB COAT**_
 
