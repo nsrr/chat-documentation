@@ -15,7 +15,7 @@ scheduled through the site’s ENT clinic.
 > coordinator at each site when results fall in the following ranges:
 
 > * OAI > 15 or AHI > 20
-> * Sa02 < 92% for > 2 of sleep time
+> * Sa02 < 92% for > 2% of sleep time
 
 > It is the unblinded coordinator’s responsibility to inform the surgeon in a timely manner by
 > tagging the ENT chart prior to the day of surgery or via a method that is preferable to the
