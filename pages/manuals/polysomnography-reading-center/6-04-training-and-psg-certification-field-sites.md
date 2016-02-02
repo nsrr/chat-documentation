@@ -20,7 +20,7 @@ To be considered acceptable the recording must:
   - Correct study identification as a certification recording using the following format when naming the recording:   CR[TechID]_[date of study mmddyr]  CR1002_120507. The electronic recording file must be accompanied with paperwork that matches this naming convention and additionally includes the technician identification and an identifier for the research bed where the test was performed.
   - Impedance check
   - Documentation (paper log or printed electronic log) of events, including physio-cals, impedance measurement values, tech comments and signal checks throughout the recording.
-  - Completed Signal Verification (SV) and Signal Evaluation (SE) forms or electronically generated equivalents..
+  - Completed Signal Verification (SV) and Signal Evaluation (SE) forms or electronically generated equivalents.
 
 ### 6.4.2 Certification Maintenance
 
