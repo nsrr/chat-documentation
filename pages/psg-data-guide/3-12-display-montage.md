@@ -14,8 +14,8 @@
 |  E1-REF        |   0.3             |  35                |  Negative ↑        |    \*               |
 |  E2-REF        |   0.3             |  35                |  Negative ↑        |    \*               |
 |  Lchin-REF     |  10               |  70                |  Negative ↑        |    \*               |
-|  Rchin-REF     |   0.3             |  35                |  Negative ↑        |    \*               |
-|  Cchin-REF     |   0.3             |  35                |  Negative ↑        |    \*               |
+|  Rchin-REF     |  10               |  70                |  Negative ↑        |    \*               |
+|  Cchin-REF     |  10               |  70                |  Negative ↑        |    \*               |
 |  C3-REF        |   0.3             |  35                |  Negative ↑        |    \*               |
 |  C4-REF        |   0.3             |  35                |  Negative ↑        |    \*               |
 |  O1-REF        |   0.3             |  35                |  Negative ↑        |    \*               |
