@@ -177,7 +177,7 @@ Will be checked "yes" if any criteria for urgent as listed below are met:
 
 ### Unusual occurrences during sleep
 
-Abnormal Awake EEG:  when the waking EEG background rhythm consists of waves in the theta range.  This should be distinguished from presence of theta waves as a result of excessive sleepiness, which will disappear after some period of sleep, and may indicate a neurological disorder or toxicity
+Abnormal Awake EEG:  when the waking EEG background rhythm consists of waves in the theta range.  This should be distinguished from presence of theta waves as a result of excessive sleepiness, which will disappear after some period of sleep, and may indicate a neurological disorder or toxicity.
 
 ### Was any data lost?
 
