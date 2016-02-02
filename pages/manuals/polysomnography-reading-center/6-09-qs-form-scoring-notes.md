@@ -166,7 +166,7 @@ Will be checked "yes" if any criteria for urgent as listed below are met:
 
 <u>Was the study scored with the minimal problems?</u> The following boxes are checked when the scorer is unsure approximately 20% of the time (1 in 5) about classifying epochs/events when making a decision regarding each of the following:
 
-- Wake - Sleep unreliable: when the clarity of the EEG makes distinguishing the transition.
+- Wake - Sleep unreliable: when the clarity of the EEG makes distinguishing the transition from Stage Wake to sleep uncertain.
 - Stage 1/Stage 2 unreliable: when K-complexes and sleep spindles do not have show their classical morphology and distinction between Stage 1 and Stage 2 is doubtful (characteristic for the studies with low voltage EEG).
 - Stage 2/Deep Sleep unreliable: when distinction between Stage 2 and Deep Sleep is unreliable because of EEG artifact (usually due to the respiratory or sweat artifact on the EEG, and High Pass filter =1Hz used).
 - REM/NonREM unreliable: when identification of Stage REM is unreliable (usually due to poor or missing EMG or when both EOGs are absent).
