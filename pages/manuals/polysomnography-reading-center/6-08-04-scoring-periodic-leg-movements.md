@@ -20,10 +20,6 @@ Compumedics ProfusionPSG 3 software defines the interval between limb movements 
 
 Delete all the PLMs in awake.
 
-**RULE for the studies, which have a mixture of PLMs and Respiratory events:**
-
-Delete all clusters of 4 or more leg movements in row, if all of them clearly terminate a respiratory event.  However, when a mixture of LMs are seen where some occur at the termination of a respiratory event and others appear unrelated temporally to a respiratory event, retain such events other than ones where a sequence of 3 occur associated with respiratory termination.
-
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
