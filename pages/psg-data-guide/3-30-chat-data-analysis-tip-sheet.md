@@ -60,7 +60,7 @@ The following are highly skewed and cannot be easily transformed. Using categori
 
 **Independent Continuous Predictors:**
 
-The AHI/RDI and other sleep variables are often key predictors, rather than dependent variables. In such cases, log transformation is not needed but the challenge is even greater:  How to model those variables appropriately?  Three general approaches are commonly used (not necessarily mutually exclusive).  For each approach, we mention below key issues that out to be considered.
+The AHI/RDI and other sleep variables are often key predictors, rather than dependent variables. In such cases, log transformation is not needed but the challenge is even greater:  How to model those variables appropriately?  Three general approaches are commonly used (not necessarily mutually exclusive).  For each approach, we mention below key issues that ought to be considered.
 
 <u>Paradigm 1:</u>  Statistical hypothesis testing. Fit the variable as is (continuous), test the null on its coefficient. If significant, fit a quadratic term as well.  If NOT significant, conclude a linear relation (or log-linear if using a log-linear model).
 
