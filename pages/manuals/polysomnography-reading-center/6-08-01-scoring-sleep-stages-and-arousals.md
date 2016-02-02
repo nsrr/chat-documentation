@@ -1,7 +1,7 @@
 # 6.8 Scoring Rules
 
 <div class="bs-callout bs-callout-info">
-  Locally introduced rules, based on discussions among the PRC staff and outside consultations are indicated by an (\*).
+  Locally introduced rules, based on discussions among the PRC staff and outside consultations are indicated by an (*).
 </div>
 
 
