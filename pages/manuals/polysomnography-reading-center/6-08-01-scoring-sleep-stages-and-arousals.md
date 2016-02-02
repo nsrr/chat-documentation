@@ -175,7 +175,7 @@ Rules
 
 **<u>Stage 2 sleep [N2]</u>**
 
-Stage N2 is defined by a background similar to Stage N1 sleep with the presence of the non-arousal associated K complexes and/or sleep spindles. It is impossible to define the difference between Stage N1 and Stage N2 sleep on the basis of background activity alone. Bursts of other polymorphic high voltage slow waves, which do not have the precise morphology of K complex, are also frequently seen. Delta waves: high amplitude ( > 75 μV), slow (≤ 4 Hz; duration 0.5 s. and longer) activity occupy no more than 19% of the epoch. At the beginning of the Stage N2, slow eye movements may infrequently, and only briefly, persist after the appearance of sleep spindles and non-arousal associated K complexes.
+Stage N2 is defined by a background similar to Stage N1 sleep with the presence of the non-arousal associated K complexes and/or sleep spindles. It is impossible to define the difference between Stage N1 and Stage N2 sleep on the basis of background activity alone. Bursts of other polymorphic high voltage slow waves, which do not have the precise morphology of K complex, are also frequently seen. Delta waves: high amplitude ( > 75 μV), slow 0.5-2HZ; duration 0.5-2 seconds) activity occupy no more than 19% of the epoch. At the beginning of the Stage N2, slow eye movements may infrequently, and only briefly, persist after the appearance of sleep spindles and non-arousal associated K complexes.
 
 K complexes associated with or imbedded within an arousal do not constitute evidence of Stage N2.
 
