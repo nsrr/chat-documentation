@@ -44,7 +44,7 @@ The QA grades of the signal and study are assigned at the time of scoring. It is
       <tr><td>Oximetry</td><td></td><td>1 2 3 4 5</td></tr>
       <tr><td>Pleth</td><td></td><td>1 2 3 4 5</td></tr>
       <tr><td>Position</td><td></td><td>1 2 3 4 5</td></tr>
-      <tr><td>Reference</td><td></td><td>1 2 3 4 5</td></tr>
+      <tr><td>Reference</td><td></td><td>1=Good 2=Problem (If "2" explain in notes)</td></tr>
     </table>
   </div>
 
