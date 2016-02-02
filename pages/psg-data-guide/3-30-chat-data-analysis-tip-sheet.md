@@ -42,7 +42,7 @@ The following summarized some PSG variables of likely interest to CHAT investiga
 
 A number of key sleep-related variables are not normally distributed.  Modeling these variables as the dependent variables violates assumptions of linear regression.  Achieving normality, or identifying alternative methods to use these data is important not only for consistency across publications, but also for accurate reporting of results.
 
-The following PSG variables appear reasonably normally distributed and usually can be analyzed without transformations:  Sleep Stage 2, Sleep Stage RM, BPMAVG, CO2PEAK
+The following PSG variables appear reasonably normally distributed and usually can be analyzed without transformations:  Sleep Stage 2, Sleep Stage REM, BPMAVG, CO2PEAK
 
 The following are non-normal but can be achieve approximate normal distributions with a natural log transform (adding 0.010): Sleep Efficiency, OAHI, OAMHI, avgsat, minsat.
 
