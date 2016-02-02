@@ -74,7 +74,7 @@ The QA grades of the signal and study are assigned at the time of scoring. It is
 
     <ul>
       <li>
-        † <sub>(7)</sub> <b>Outstanding.</b> All signals (EEG+M1,M2), both EOGs, chin, airflow, cannula flow, both belts, and oximetry) good for at least 6 hours lights off to lights on and almost entire (95%) sleep time.
+        † <sub>(7)</sub> <b>Outstanding.</b> All signals ((EEG+M1,M2), both EOGs, chin, airflow, cannula flow, both belts, and oximetry) good for at least 6 hours lights off to lights on and almost entire (95%) sleep time.
       </li>
       <li>
         † <sub>(6)</sub> <b>Excellent.</b> At least one central EEG (C3 or C4), one EOG channel, chin, airflow, both belts or cannula flow, and oximetry good for 6 hours lights off to lights on and minimum of 75% of the sleep time.
