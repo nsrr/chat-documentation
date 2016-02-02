@@ -54,7 +54,7 @@ The following are highly skewed and cannot be easily transformed. Using categori
 
 **Sleep Stages:** These data are reported in the data set as integers. Stage 1 and stage 3 – 4 are not normally distributed, but stage 2 and REM sleep are. (NOTE: since the data are integers, values must be divided by 100 prior to transformation to yield proportions).
 
-**Sleep time below 92% O2:** Since a considerable proportion of the cohort had zero values, may need to dichotomize this variable (e.g., any time below 92%-identifying about top 5% of values)
+**Sleep time below 92% O2:** Since a considerable proportion of the cohort had zero values, may need to dichotomize this variable (e.g., any time below 92%-identifying about top 5% of values).
 
 **A General Note:** Back-transformation of the difference between two means of a log-transformed variable generates the geometric mean ratio (which is, more or less, the ratio of two medians). Not so for log-log transformation.
 
