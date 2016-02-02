@@ -108,13 +108,13 @@ These restricting filters can also be used for RDI/AHI variables that count even
 - `QuAir    =  3, 4, 5`
 - `QuCan    =  3, 4, 5`
 - `QuAbdo   =  3, 4, 5`
-- `QuChest  =  3, 4, 5 R`
+- `QuChest  =  3, 4, 5`
 - `RespEvPr =  0`
 - `ApnHypPr =  0`
 
 The “Qu-“ grades use a scale of 1 to 5  which are applied to each signal to grade the proportion of sleep time that the signal was easily scorable and mostly artifact free. Signals with grades 1 or 2 mean that the signal was of poor quality for as much as 50% of the sleep period. Since apneas require a good thermistry signal, the QuAir =1 or =2 identifies studies where apnea vs hypopnea distinction is unreliable. Since central apneas require visualization of effort on two bands, the QuAbdo and QuChest =1 or =2 identifies studies where central events may be poorly distinguished from obstructives.
 
-RespEvPr and ApnHypPr also provide information on the overall ability of the scorer to detect respiratory evens and to distinguish Apnea vs Hypopnea events, respectively.
+RespEvPr and ApnHypPr also provide information on the overall ability of the scorer to detect respiratory events and to distinguish Apnea vs Hypopnea events, respectively.
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
