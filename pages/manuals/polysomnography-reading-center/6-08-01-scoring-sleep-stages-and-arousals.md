@@ -264,11 +264,11 @@ Rules
 
 <u>Scoring REM when there are problems with REM related atonia or the EMG is difficult to interpret.</u>
 
-Identification of the Stage REM is may be difficult when there are prolonged bursts of elevated EMG seen during eye movements or the EMG increases with snoring. In such cases:
+Identification of Stage REM may be difficult when there are prolonged bursts of elevated EMG seen during eye movements or the EMG increases with snoring. In such cases:
 
 - EMG increases clearly related to snoring (changing with breathing) may be ignored, as long as intervening EMG is low.
 
-- The portion of the record with unquestionable Stage R should be reviewed to provide a visual reference of the characteristic Stage R EEG pattern. Stage R is scored when EEG pattern changes to the pattern characteristic for Stage R regardless of the level of the EMG. When EEG is consistent with Stage R, and there is no evidence of wake (blinking), no evidence of Stage N1 (vertex waves, slow rolling eye movements), or the presence of REMs, then score stage Stage R from the last non- arousal associated K complex, sleep spindles or delta wave. Distinguishing between Stage N1 and Stage R is unreliable and noted as such on the PSG scoring notes for.
+- The portion of the record with unquestionable Stage R should be reviewed to provide a visual reference of the characteristic Stage R EEG pattern. Stage R is scored when EEG pattern changes to the pattern characteristic for Stage R regardless of the level of the EMG. When EEG is consistent with Stage R, and there is no evidence of wake (blinking), no evidence of Stage N1 (vertex waves, slow rolling eye movements), or the presence of REMs, then score stage Stage R from the last non- arousal associated K complex, sleep spindles or delta wave. Distinguishing between Stage N1 and Stage R is unreliable and noted as such on the PSG scoring notes form.
 
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
