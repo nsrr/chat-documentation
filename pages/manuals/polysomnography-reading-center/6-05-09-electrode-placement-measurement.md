@@ -121,7 +121,7 @@ left side of the head is C3.
 
 **To determine M1 and M2:**
 
-These placement sites are on the mastoid process (bone behind the earlobe). The electrode should be placed on the skin between the crease of the earlobe and where the hairline begins. Lightly mark these sites. A1 is placed on the left mastoid, A2 on the right.
+These placement sites are on the mastoid process (bone behind the earlobe). The electrode should be placed on the skin between the crease of the earlobe and where the hairline begins. Lightly mark these sites. M1 is placed on the left mastoid, M2 on the right.
 
 **To determine EOG placements:**
 
