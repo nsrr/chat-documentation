@@ -2,7 +2,7 @@
 
 Data collection for PSG was standardized among various manufactured instruments by use of standardized collection and display montages (see tables in this section). Each unit used for collection was certified before use to maximize signal quality integrity throughout the EDF conversion and import into Compumedics Profusion software used for scoring. Technicians performing CHAT studies also underwent a formal certification procedure.
 
-Due to the new sites that joined CHAT in 2009 (SLU, Boston Childrens, Montifiore), several modifications to standardized collection due to problems with EDF conversion and or equipment limitations at the site.
+Due to the new sites that joined CHAT in 2009 (SLU, Boston Childrens, Montifiore), several modifications were made to the standardized collection due to problems with EDF conversion and or equipment limitations at the new sites and or original sites.
 Although initial CHAT sites were required to use a Nonin Oximeter board and Novametric Capnograph, later CHAT sites were unable to comply with this and thus may have used a Masimo oximeter or BCI capnograph. In addition, with expansion of beds in the original CHAT sites, BCI capnographs were allowed as an alternative to the Novametrix. Data has been generated from 19 studies where both capnographs were used. Analysis results not yet available.
 
 - <u>Xltek Oximetry.</u> Xltek units used an internal Masimo oximeter. Nonin external sensor did not convert through EDF. Studies done with Xltek were scored using Masimo oximetry. SLU collected several studies for analysis using an external Nonin so the values could be compared. Preliminary data indicate no significant difference; however, additional reports are being run for further analysis.
