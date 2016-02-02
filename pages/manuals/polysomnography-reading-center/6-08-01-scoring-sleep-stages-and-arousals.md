@@ -54,7 +54,7 @@ If equivalent EEGs pairs are interpretable, the arousal (EEG frequency shift) mu
 
 Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoch to be classified as AWAKE.
 
-**_TIPS for Arousals Generally:\*_**
+**_TIPS for Arousals Generally:(*)_**
 
 - When unsure if change in background EEG represents an abrupt change, look at a 60 sec window and note if there is a discrete change from background EEG.
 - Note whether changes were evident on both EEG channels.
@@ -62,7 +62,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
 - Isolated bursts of delta activity or sawtooth-like waves do not constitute an arousal. In contrast, slow waves intermixed with fast activity that differs from background do qualify as arousals.
 - Occasionally, EEG acceleration is superimposed on slower waves. The slowing may be an artifact secondary to movement or burst of delta waves. If there is evidence of embedded EEG acceleration for ≥ 3 sec., mark as an arousal.
 
-**_Arousal Length - Wake versus Sleeps:\*_**
+**_Arousal Length - Wake versus Sleeps:(*)_**
 
 Some studies with high RDIs have many arousals that may appear to last > 15 sec. within given epochs. If all such epochs were classified as AWAKE, then the respiratory events would not be included in the RDI and the
 
@@ -74,7 +74,7 @@ RDI will be underestimated. When faced with this situation, and when <1 second d
 In stage REM, an EEG frequency shift must be accompanied by a simultaneous increase in amplitude of the chin EMG (lasting at least 1 second). An arousal starts when a definite change in background EEG is visualized. The increase in the chin EMG can occur anytime during the arousal (can be at the end) and is not a marker for the beginning of the arousal however, increased EMG activity without a change in background
 EEG does not constitute an arousal.
 
-**_TIPS for Arousals in REM:\*_**
+**_TIPS for Arousals in REM:(*)_**
 
 - If the level of REM EMG appears to be fluctuating, then the increase in EMG in the area of a putative arousal needs to be more than the background level of fluctuations, to identify this as a REM arousal.
 - A long period of alpha activity before an EMG increase may mark the beginning of the arousal if the alpha activity represents the change in the background pattern.
