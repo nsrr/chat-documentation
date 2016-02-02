@@ -26,7 +26,7 @@ Terminology for stages of sleep:
 - Stage W (Wakefulness)
 - Stage N1 (NREM 1)
 - Stage N2 (NREM 2)
-- Stage N3 (NREM 3) – Represents slow wave sleep and replaced R&K nomenclature of state 3 and 4
+- Stage N3 (NREM 3) – Represents slow wave sleep and replaced R&K nomenclature of stage 3 and 4
 - Stage R (REM)
 
 
