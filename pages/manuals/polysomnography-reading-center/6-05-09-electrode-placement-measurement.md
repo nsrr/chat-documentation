@@ -105,7 +105,7 @@ left side of the head is C3.
 
 - 11) Lay the tape measure between the mark for FP2 (above the right eyebrow) and C4. Measure the distance and make a horizontal mark at 50% of the total distance. This mark should be in line with FP2 and C4. This location on the anterior right of the head is F4.
 
-**To determine F4:**
+**To determine F3:**
 
 - 12) Lay the tape measure between the mark for FP1 (above the left eyebrow) and C3. Measure the distance and make a horizontal mark at 50% of the total distance. This mark should be in line with FP1 and C3. This location on the anterior right of the head is F3.
 
