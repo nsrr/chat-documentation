@@ -52,7 +52,7 @@ Hard Filters are used to identify problem studies and/or fields where it is inva
 
 <div class="bs-callout bs-callout-info">
   <p>
-    Refer to DD for full description of each code
+    Refer to DD for full description of each code.
   </p>
 </div>
 
