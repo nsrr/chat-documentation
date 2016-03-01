@@ -1,7 +1,7 @@
 ## 1.3 Cuff Size Determination
 
 It is important to use the appropriate cuff size to assure accuracy and prevent false
-readings. Proper cuff size for will be determined by measuring the circumference of the
+readings. Proper cuff size will be determined by measuring the circumference of the
 child’s upper arm, measured at the midpoint, and identifying the appropriate bladder size
 from the chart attached (same reference chart listed in Resting Blood Pressure
 Manual). If the measurement falls between sizes it is better to use a larger sized cuff
