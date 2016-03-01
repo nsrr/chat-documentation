@@ -86,11 +86,19 @@ The following rules were established to maximize the amount of sleep identified 
 
 Brief arousals (e.g. arousals ≤ 15s. long) may require a change in sleep stage. The epoch is staged according to the sleep stage in the remaining parts of the epoch (not including the arousal). After an arousal change to stage N1 until a K complex unassociated with an arousal or a sleep spindle occurs.
 
-Although following from AASM these rules relating to body movement were not used in CHAT. Sleep stage may change after a major body movement. For example: A major body movement during stage N2 followed by slow eye movements and low amplitude mixed frequency EEG without non-arousal associated K complexes or sleep spindles (score the epoch following the major body movement as stage N1; score the epoch as stage N2 if there are no slow eye movements; the epoch containing the body movement is scored using the following rules. The definition of a Major body movement: Movement and muscle artifact obscuring the EEG for more than half an epoch to the extent that the sleep stage cannot be determined. Rules [stage during Major Body Movement]
+The AASM 2007 scoring rules related to major body movement were not used for CHAT. A major body movement would have been scored as an arousal. If the arousal was longer that half the epoch [>15sec of the 30sec epoch] then the epoch was scored wake. Just for reference, the AASM 2007 rules for Major Body Movement are:
+Definition of Major body movement: movement and muscle artifact obscuring the EEG for more than half an epoch to the extent that the sleep stage cannot be determined.
 
-- 1) If alpha rhythm is present for part of the epoch (even < 15 seconds duration), score as stage W.
-- 2) If no alpha rhythm is discernable, but an epoch scorable as stage W either precedes or follows the epoch with a major body movement, score as stage W.
-- 3) Otherwise, score the epoch as the same stage as the epoch that follow it.
+Rules: Score an epoch with major body movement as follows:
+  - If alpha rhythm is present for part of the epoch (even <15 seconds duration), score as stage W.
+  - If no alpha rhythm is discernable, but an epoch scorable as stage W either precedes or follows the epoch with the major body movement, score as stage W.
+  - Otherwise, score the epoch as the same stage as the epoch that follows it.
+
+Rules for end of stage N2 and end of REM included rule with major body movement.
+
+Rule for end of stage N2: A major body movement followed by slow eye movements and low amplitude mixed frequency EEG without non-arousal associated K complexes or sleep spindles (score the epoch following the major body movement as stage N1; score the epoch as stage N2 if there are no slow eye movements: the epoch containing the body movement is scored using the criteria for major body movement).
+
+Rules for end of REM: A major body movement followed by slow eye movements and low amplitude mixed frequency EEG without non-arousal associated K complexes or sleep spindles (score the epoch following the major body movement as stage N1; if no slow eye movements and the EMG tone remains low, continue to score stage R; the epoch containing the body movement is scored using the criteria for major body movement).
 
 If an arousal or an area of increased EMG causing artifact in the EEG channels is followed by Stage wake (W), then the arousal is considered part of the record scored as a stage Wake. If this part is > 15 s. long, then epoch is scored as a Stage Wake.
 
