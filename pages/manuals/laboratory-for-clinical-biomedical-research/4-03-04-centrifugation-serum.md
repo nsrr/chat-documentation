@@ -6,7 +6,7 @@ centrifugation is 90 minutes). These tubes are centrifuged at 4° C at 2,000 x g
 on ice.
 
 One mL is aliquoted in one tall 4mL tube (tube #1). This sample will be used for a lipid profile.
-The remaining serum is aliquoted into (8) 1.5 ml red-top cryovials # 2 – 9 in 0.5 ml aliquots.
+The remaining serum is aliquoted into (8) 1.5 mL red-top cryovials # 2 – 9 in 0.5 mL aliquots.
 These samples should be immediately frozen at -80°C
 
 The remaining cells in the serum draw tube and the tube itself can be discarded in the
