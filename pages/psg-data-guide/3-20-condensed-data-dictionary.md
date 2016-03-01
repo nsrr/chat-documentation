@@ -93,9 +93,9 @@ These variables identify studies where the scorer felt that underlying signals m
 - `ArUnrel    = 0`
 - `RemArUnrel = 0`
 
-ArUnrel identifies studies where underlying artifact of background EEG made distinguishing arousals difficult
+ArUnrel identifies studies where underlying artifact of background EEG made distinguishing arousals difficult.
 
-RemArUnrel identifies studies where EMG signal problems made scoring arousals in REM difficult
+RemArUnrel identifies studies where EMG signal problems made scoring arousals in REM difficult.
 
 These restricting filters can also be used for RDI/AHI variables that count events linked to arousals.
 
