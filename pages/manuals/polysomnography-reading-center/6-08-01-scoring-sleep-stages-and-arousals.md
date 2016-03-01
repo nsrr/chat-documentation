@@ -62,7 +62,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
 - Isolated bursts of delta activity or sawtooth-like waves do not constitute an arousal. In contrast, slow waves intermixed with fast activity that differs from background do qualify as arousals.
 - Occasionally, EEG acceleration is superimposed on slower waves. The slowing may be an artifact secondary to movement or burst of delta waves. If there is evidence of embedded EEG acceleration for ≥ 3 sec., mark as an arousal.
 
-**_Arousal Length - Wake versus Sleeps:(*)_**
+**_Arousal Length - Wake versus Sleep:(*)_**
 
 Some studies with high RDIs have many arousals that may appear to last > 15 sec. within given epochs. If all such epochs were classified as AWAKE, then the respiratory events would not be included in the RDI and the
 
