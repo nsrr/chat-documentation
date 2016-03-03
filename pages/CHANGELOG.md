@@ -1,3 +1,8 @@
+### March 3, 2016
+
+- EDF file sets were refreshed to fix EDF header issues
+- Baseline EDF for 301057 was replaced with a corrected version (previously the study was a duplicate from followup)
+
 ### December 18, 2015
 
 - Release 0.4.0 of dataset and update documentation
