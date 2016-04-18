@@ -8,9 +8,9 @@ Read more about CHAT at [ClinicalTrials.gov (NCT00560859)](http://clinicaltrials
 
 When citing this dataset please use:
 
-1. The Childhood Adenotonsillectomy Trial (CHAT): rationale, design, and challenges of a randomized controlled trial evaluating a standard surgical procedure in a pediatric population. Redline S, Amin R, Beebe D, Chervin RD, Garetz SL, Giordani B, Marcus CL, Moore RH, Rosen CL, Arens R, Gozal D, Katz ES, Mitchell RB, Muzumdar H, Taylor HG, Thomas N, Ellenberg S.Sleep. 2011 Nov 1;34(11):1509-17. doi: 10.5665/sleep.1388.
+1. Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep*. Advance online publication. pii: sp-00021-15
 
-2. Redline, S., et al. "Childhood Adenotonsillectomy Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/chat.
+2. Redline, S., Amin, R., Beebe, D., Chervin, R. D., Garetz, S. L., Giordani, B., Marcus, C. L., Moore, R. H., Rosen, C. L., Arens, R., Gozal, D., Katz, E. S., Mitchell, R. B., Muzumdar, H., Taylor, H. G., Thomas, N., & Ellenberg, S. (2011). The Childhood Adenotonsillectomy Trial (CHAT): rationale, design, and challenges of a randomized controlled trial evaluating a standard surgical procedure in a pediatric population. *Sleep, 11,* 1509–1517.
 
 Supported by grants (HL083075, HL083129, UL1-RR-024134, UL1 RR024989) from the National Institutes of Health.
 

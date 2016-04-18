@@ -1,3 +1,7 @@
+### April 18, 2016
+
+- Update citations for users of the dataset
+
 ### March 3, 2016
 
 - EDF file sets were refreshed to fix EDF header issues
