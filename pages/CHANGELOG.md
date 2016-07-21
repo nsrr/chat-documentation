@@ -1,3 +1,8 @@
+### July 21, 2016
+
+- Update note about nonrandomized subjects in Dataset Introduction
+- Release 0.5.0 of dataset
+
 ### May 19, 2016
 
 - Update citations for users of the dataset
