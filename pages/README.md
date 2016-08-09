@@ -8,9 +8,9 @@ Read more about CHAT at [ClinicalTrials.gov (NCT00560859)](http://clinicaltrials
 
 When citing this dataset please use:
 
-1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5*, 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
-
+1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
 2. [Redline, S., Amin, R., Beebe, D., Chervin, R. D., Garetz, S. L., Giordani, B., Marcus, C. L., Moore, R. H., Rosen, C. L., Arens, R., Gozal, D., Katz, E. S., Mitchell, R. B., Muzumdar, H., Taylor, H. G., Thomas, N., & Ellenberg, S. (2011). The Childhood Adenotonsillectomy Trial (CHAT): rationale, design, and challenges of a randomized controlled trial evaluating a standard surgical procedure in a pediatric population. *Sleep, 11,* 1509–1517.](http://www.ncbi.nlm.nih.gov/pubmed/22043122)
+3. [Marcus, C. L., Moore, R. H., Rosen, C. L., Giordani, B., Garetz, S. L., Taylor, H. G., Mitchell, R. B., Amin, R., Katz, E. S., Arens, R., Paruthi, S., Muzumdar, H., Gozal, D., Thomas, N. H., Ware, J., Beebe, D., Snyder, K., Elden, L., Sprecher, R. C., Willging, P., Jones, D., Bent, J. P., Hoban, T., Chervin, R. D., Ellenberg, S. S., Redline, S., & , . (2013). A randomized trial of adenotonsillectomy for childhood sleep apnea. *The New England journal of medicine, 25,* 2366–2376.](http://www.ncbi.nlm.nih.gov/pubmed/23692173)
 
 Supported by grants (HL083075, HL083129, UL1-RR-024134, UL1 RR024989) from the National Institutes of Health.
 
@@ -56,6 +56,5 @@ Read about the [methods, validation, and results for the NSRR HRV analysis effor
 
 ## Publication Links
 
-- [The Childhood Adenotonsillectomy Trial (CHAT): rationale, design, and challenges of a randomized controlled trial evaluating a standard surgical procedure in a pediatric population.](http://www.ncbi.nlm.nih.gov/pubmed/22043122)
 - http://www.nejm.org/doi/full/10.1056/NEJMoa1215881#t
 - http://www.journalsleep.org/ViewAbstract.aspx?pid=28331

@@ -1,3 +1,7 @@
+### August 9, 2016
+
+- Add citation to documentation index
+
 ### July 21, 2016
 
 - Update note about nonrandomized subjects in Dataset Introduction
