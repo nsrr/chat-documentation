@@ -42,7 +42,9 @@ Read about the [methods, validation, and results for the NSRR HRV analysis effor
 
 ## Thoraco-Abdominal Asynchrony Analysis (TAA)
 
-NSRR user Mathias Baumert and colleagues conducted a specialized analysis using the CHAT polysomnography data. [TAA result variables](https://sleepdata.org/datasets/chat/variables?utf8=✓&folder=Sleep%2FThoraco-abdominal+Asynchrony) have been added to [the baseline and follow-up datasets](:files_path:/datasets). [Read more about the results and methods in their publication](http://erj.ersjournals.com/content/early/2016/11/03/13993003.01177-2016).
+NSRR user Mathias Baumert and colleagues conducted a specialized analysis using the CHAT polysomnography data. [TAA result variables](https://sleepdata.org/datasets/chat/variables?utf8=✓&folder=Sleep%2FThoraco-abdominal+Asynchrony) have been added to [the baseline and follow-up datasets](:files_path:/datasets).
+
+[Read more about the results and methods in their publication](http://erj.ersjournals.com/content/early/2016/11/03/13993003.01177-2016).
 
 ## Recent Changes
 
