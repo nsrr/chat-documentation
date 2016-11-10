@@ -1,3 +1,7 @@
+### November 11, 2016
+
+- Release 0.6.0 dataset (adds thoraco-abdominal asynchrony variables)
+
 ### August 9, 2016
 
 - Add citation to documentation index

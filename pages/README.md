@@ -40,6 +40,10 @@ As part of the NSRR's effort to explore the CHAT data in more detail, EEG spectr
 
 Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/chat/variables?folder=HRV+Analysis).
 
+## Thoraco-Abdominal Asynchrony Analysis (TAA)
+
+NSRR user Mathias Baumert and colleagues conducted a specialized analysis using the CHAT polysomnography data. [TAA result variables](https://sleepdata.org/datasets/chat/variables?utf8=✓&folder=Sleep%2FThoraco-abdominal+Asynchrony) have been added to [the baseline and follow-up datasets](:files_path:/datasets). [Read more about the results and methods in their publication](http://erj.ersjournals.com/content/early/2016/11/03/13993003.01177-2016).
+
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
