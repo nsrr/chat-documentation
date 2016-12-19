@@ -6,9 +6,9 @@ Read more about CHAT at [ClinicalTrials.gov (NCT00560859)](http://clinicaltrials
 
 ## Dataset Download
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 6.5 MB
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Phenotype data from the CHAT study.
 
-Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from the CHAT study.
 
 ## Protocols and Manuals
 
@@ -31,20 +31,6 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 
 - [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md)
 - [CHAT Reliability ICCs](:pages_path:/4-reliability-chat.md)
-
-## EEG Spectral Analysis
-
-As part of the NSRR's effort to explore the CHAT data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/chat/variables?folder=Spectral+Analysis).
-
-## Heart Rate Variability (HRV) Analysis
-
-Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/chat/variables?folder=HRV+Analysis).
-
-## Thoraco-Abdominal Asynchrony Analysis (TAA)
-
-NSRR user Mathias Baumert and colleagues conducted a specialized analysis using the CHAT polysomnography data. [TAA result variables](https://sleepdata.org/datasets/chat/variables?utf8=✓&folder=Sleep%2FThoraco-abdominal+Asynchrony) have been added to [the baseline and follow-up datasets](:files_path:/datasets).
-
-[Read more about the results and methods in their publication](http://erj.ersjournals.com/content/early/2016/11/03/13993003.01177-2016).
 
 ## Recent Changes
 

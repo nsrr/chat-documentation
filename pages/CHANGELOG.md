@@ -1,3 +1,9 @@
+### December 19, 2016
+
+- Reformat data listing on index
+- Temporarily remove documentation links for sub-analyses (EEG, HRV, TAA) from main index
+- Add polysomnography introduction
+
 ### November 11, 2016
 
 - Release 0.6.0 dataset (adds thoraco-abdominal asynchrony variables)
