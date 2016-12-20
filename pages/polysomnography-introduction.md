@@ -15,6 +15,10 @@ Notes:
 2. **[XML (Profusion)](:files_path:/polysomnography/annotations-events-profusion)** - Annotation files exported from Compumedics Profusion. ([Learn more...](https://www.sleepdata.org/tools/edf-editor-and-translator/pages/2-11-compumedics-format.md))
 3. **[XML (NSRR)](:files_path:/polysomnography/annotations-events-nsrr)** - Annotation files processed in the [EDF Editor and Translator](https://www.sleepdata.org/tools/edf-editor-and-translator) tool.
 
+## Known issues
+
+- *Oximetry values that exceed 100 (e.g. 300214 followup)* - These extraneous values stem back from the original recording equipment and could not be fixed upon re-exporting.
+
 ## History / changelog
 
 *December 19, 2016*
