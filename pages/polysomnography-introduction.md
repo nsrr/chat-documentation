@@ -15,16 +15,7 @@ Notes:
 2. **[XML (Profusion)](:files_path:/polysomnography/annotations-events-profusion)** - Annotation files exported from Compumedics Profusion. ([Learn more...](https://www.sleepdata.org/tools/edf-editor-and-translator/pages/2-11-compumedics-format.md))
 3. **[XML (NSRR)](:files_path:/polysomnography/annotations-events-nsrr)** - Annotation files processed in the [EDF Editor and Translator](https://www.sleepdata.org/tools/edf-editor-and-translator) tool.
 
-## Data notes and updates
-
-Known issues and a history of the CHAT PSG data are presented below.
-
-### Known issues
-
-- Issue 1
-- Issue 2
-
-### History
+## History / changelog
 
 *December 19, 2016*
 - `baseline`
@@ -33,9 +24,11 @@ Known issues and a history of the CHAT PSG data are presented below.
 - `followup`
   - 300203 replaced (previously was duplicate of baseline)
   - 300555, 300666, 300879, 301053 replaced (previously were actually baseline files)
+- `nonrandomized`
+  - 300248, 300298, 300539, 300640, 301009, 301213 replaced (linked references, fixed with re-exporting)
 
 *August 2014*
-- Polysomnography data uploaded
+- Polysomnography data uploaded to sleepdata.org after exports from Compumedics Profusion
 
 ## Questions?
 
