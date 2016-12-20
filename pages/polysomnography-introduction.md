@@ -17,14 +17,25 @@ Notes:
 
 ## Data notes and updates
 
-CHAT PSG data were originally uploaded in mid-2014.
+Known issues and a history of the CHAT PSG data are presented below.
+
+### Known issues
+
+- Issue 1
+- Issue 2
+
+### History
 
 *December 19, 2016*
 - `baseline`
+  - 300420, 300100 replaced (signal labels incorrectly ordered in EDF header)
   - 300555, 300666, 300879, 301053 replaced (previously were actually followup files)
 - `followup`
   - 300203 replaced (previously was duplicate of baseline)
   - 300555, 300666, 300879, 301053 replaced (previously were actually baseline files)
+
+*August 2014*
+- Polysomnography data uploaded
 
 ## Questions?
 
