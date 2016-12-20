@@ -1,3 +1,7 @@
+### December 20, 2016
+
+- Add notes about PSG file updates over time
+
 ### December 19, 2016
 
 - Reformat data listing on index
