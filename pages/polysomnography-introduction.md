@@ -17,7 +17,9 @@ Notes:
 
 ## Known issues
 
-- *Oximetry values that exceed 100 (e.g. 300214 followup)* - These extraneous values stem back from the original recording equipment and could not be fixed upon re-exporting.
+- *Oximetry values exceed 100 (e.g. 300214 followup)* - These extraneous values stem back from the original recording equipment and could not be fixed upon re-exporting.
+- *Referenced signals (300051 baseline) and bipolar collection (300927 baseline)* - Original data collection did not conform to official CHAT montage.
+- *Pulse signal contains incorrect physical dimension (mbar) (301117 nonrandomized)* - Issue could not be fixed with re-exporting; other signals appear intact.
 
 ## History / changelog
 
