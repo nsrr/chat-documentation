@@ -1,3 +1,8 @@
+### January 19, 2017
+
+- Release 0.7.0 dataset
+- Re-add information on README about EEG Spectral Analysis, HRV Analysis, and TAA analysis
+
 ### December 20, 2016
 
 - Add notes about PSG file updates over time
