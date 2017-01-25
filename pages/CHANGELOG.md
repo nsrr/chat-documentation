@@ -1,3 +1,7 @@
+### January 25, 2017
+
+- Add complete list of PSG studies where oximetry values exceeded 100 at some point
+
 ### January 19, 2017
 
 - Release 0.7.0 dataset

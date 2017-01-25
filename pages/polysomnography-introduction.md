@@ -17,7 +17,7 @@ Notes:
 
 ## Known issues
 
-- *Oximetry values exceed 100 (e.g. 300214 followup)* - These extraneous values stem back from the original recording equipment and could not be fixed upon re-exporting.
+- *Oxygen saturation value reaches 101 (300051 baseline) in sleep* - These extraneous values stem back from the original recording equipment and could not be fixed upon re-exporting. ([See list of studies with values >100 in wake.](:pages_path:/polysomnography-sao2-exceeds-100.md))
 - *Referenced signals (300051 baseline) and bipolar collection (300927 baseline)* - Original data collection did not conform to official CHAT montage.
 - *Pulse signal contains incorrect physical dimension (mbar) (301117 nonrandomized)* - Issue could not be fixed with re-exporting; other signals appear intact.
 
