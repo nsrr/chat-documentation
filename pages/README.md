@@ -6,7 +6,7 @@ Read more about CHAT at [ClinicalTrials.gov (NCT00560859)](http://clinicaltrials
 
 ## Data overview
 
-**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Phenotype data from the CHAT study.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from the CHAT study.
 
 **[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from the CHAT study.
 
