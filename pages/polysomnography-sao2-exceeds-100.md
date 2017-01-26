@@ -1,6 +1,6 @@
 # Polysomnography oxygen saturation exceeds 100
 
-These extraneous values stem back from the original recording equipment and could not be fixed upon re-exporting. Take precautions if using the oximetry channel, especially in wake periods.
+These extraneous values stem back from the original recording equipment and could not be fixed upon re-exporting. Wake times, particularly those outside the sleep interval, were often not reviewed for unusable artifact. Only one study (300051 baseline) had an oximetry value exceed 100 in sleep time.
 
 Go back to the **[Polysomnography introduction](:pages_path:/polysomnography-introduction.md)**.
 
