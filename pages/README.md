@@ -1,16 +1,16 @@
-# About the Study
+# About
 
 The Childhood Adenotonsillectomy Trial (CHAT) is a multi-center, single-blind, randomized, controlled trial designed to test whether after a 7-month observation period, children, ages 5 to 9.9 years,  with mild to moderate obstructive sleep apnea randomized to early adenotonsillectomy (eAT) will show greater levels of neurocognitive functioning, specifically in the attention-executive functioning domain, than children randomized to watchful waiting plus supportive care (WWSC). Other outcomes assessed included other indices of neurocognitive functioning (learning and memory, information processing, etc.), physical growth, blood pressure, metabolic profile, symptoms and quality of life. Physiological measures of sleep were assessed at baseline and at 7-months with standardized full polysomnography with central scoring at the Brigham and Women’s Sleep Reading Center. In total, 1,447 children had screening polysomnographs and 464 were randomized to treatment.
 
 Read more about CHAT at [ClinicalTrials.gov (NCT00560859)](http://clinicaltrials.gov/show/NCT00560859).
 
-## Dataset Download
+## Data overview
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Phenotype data from the CHAT study.
 
 **[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from the CHAT study.
 
-## Protocols and Manuals
+## Protocols and manuals
 
 - [CHAT Protocol](:files_path:/documentation?f=CHAT_Protocol.pdf)
 - [CHAT Manual of Procedures](:files_path:/documentation?f=CHAT_Manual_of_Procedures.pdf)
@@ -46,11 +46,11 @@ NSRR user Mathias Baumert and colleagues conducted a specialized analysis using 
 
 [Read more about the results and methods in their publication](http://erj.ersjournals.com/content/early/2016/11/03/13993003.01177-2016).
 
-## Recent Changes
+## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
 
-## Publication Links
+## Publication links
 
 - http://www.nejm.org/doi/full/10.1056/NEJMoa1215881#t
 - http://www.journalsleep.org/ViewAbstract.aspx?pid=28331
