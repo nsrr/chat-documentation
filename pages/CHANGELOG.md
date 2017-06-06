@@ -1,3 +1,7 @@
+### June 6, 2017
+
+- Add notes about XML annotations to PSG intro
+
 ### January 25, 2017
 
 - Add complete list of PSG studies where oximetry values exceeded 100 at some point
