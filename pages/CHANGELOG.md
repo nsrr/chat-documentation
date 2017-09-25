@@ -1,3 +1,7 @@
+### September 25, 2017
+
+- Add note about linking subject identifier and raw data
+
 ### June 6, 2017
 
 - Add notes about XML annotations to PSG intro
