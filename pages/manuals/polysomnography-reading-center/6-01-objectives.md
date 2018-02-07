@@ -4,7 +4,7 @@ The Case Western Reserve University Polysomnography Reading Center (PRC) will:
 
 - Work with study investigators to select sleep monitoring devices and recording montage most appropriate for meeting the study goals.
 - Develop a standardized protocol for data acquisition, processing, scoring, and urgent alert identification.
-- Provide training for technicians, research assistants and study coordinators for four collection field sites, dedicated to sleep study acquisition, staff certification, and data transmission to PRC.
+- Provide training for technicians, research assistants and study coordinators for collection field sites, dedicated to sleep study acquisition, staff certification, and data transmission to PRC.
 - Provide ongoing technical feedback to study sites relative to acquisition of sleep data.
 - Monitor the quality of submitted sleep studies; assign quality codes; report findings of study quality and performance to study investigators.
 - Review and score sleep studies by certified scorers, following a standardized protocol.
