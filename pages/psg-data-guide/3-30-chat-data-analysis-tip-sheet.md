@@ -91,7 +91,7 @@ Drawbacks:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/3-20-condensed-data-dictionary.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-02-condensed-data-dictionary.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.2 Condensed Data Dictionary
   </a>
