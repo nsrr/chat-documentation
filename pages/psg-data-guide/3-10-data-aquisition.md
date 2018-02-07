@@ -32,7 +32,7 @@ Although initial CHAT sites were required to use a Nonin Oximeter board and Nova
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/3-11-chat-standardized-recording-montage.md" class="btn btn-success">
+  <a href=":pages_path:/psg-data-guide/3-01-01-chat-standardized-recording-montage.md" class="btn btn-success">
     3.1.1 CHAT Standardized Recording Montage
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
