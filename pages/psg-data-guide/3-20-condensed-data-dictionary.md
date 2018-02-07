@@ -127,9 +127,7 @@ RespEvPr and ApnHypPr also provide information on the overall ability of the sco
 - `QuOxi    1` (3 studies)
 
 
-QuOxivalues of 1 or 2 identifies  oximetry data that were poor for as much as 50% of sleep time.   3 studies with  values of 1 have been identified in the notes and oximetry data has been removed.
-
-<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
+QuOxivalues of 1 or 2 identifies  oximetry data that were poor for as much as 50% of sleep time.   3 studies with  values of 1 have been identified in the notes and oximetry data has been removed.<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 **<u>Potential Use #6</u>**
 
@@ -175,7 +173,7 @@ Suggest that for cross sectional analyses, the Nova_est_co2 variables be used (r
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/3-13-equipment-used-at-each-chat-site.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-01-03-equipment-used-at-each-chat-site.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.1.3 Equipment Used at each CHAT Site
   </a>
@@ -185,7 +183,7 @@ Suggest that for cross sectional analyses, the Nova_est_co2 variables be used (r
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/3-30-chat-data-analysis-tip-sheet.md" class="btn btn-success">
+  <a href=":pages_path:/psg-data-guide/3-03-chat-data-analysis-tip-sheet.md" class="btn btn-success">
     3.3 CHAT Data Analysis Tip Sheet
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
