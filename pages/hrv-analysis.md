@@ -37,13 +37,13 @@ Although the long term (24-hour) statistics of SDANN, SDNNIDX and ULF power can 
 
 ## Sub-analyses
 
-1. `HRV of the entire night` - Analysis is performed from sleep onset to sleep termination. This analysis requires the following information: the time of occurrence of each R-wave, and the sleep onset and termination times. These times were extracted from the file containing the sleep stage annotations as the first and last 30 sec episode of stage 1, 2, 3 or 5 (REM), respectively. RR intervals larger than 2.5 seconds were excluded from the analysis.
+1. `HRV of the entire night` - Analysis is performed from sleep onset to sleep termination. This analysis requires the following information: the time of occurrence of each R-wave, and the sleep onset and termination times. These times were extracted from the file containing the sleep stage annotations as the first and last 30 second episode of stage 1, 2, 3 or 5 (REM), respectively. RR intervals larger than 2.5 seconds were excluded from the analysis.
 
-2. `HRV of consecutive 5-min segments with no overlap` - The results of this analysis were used to quantify HRV by sleep stage with and without respiratory events.  In addition to restricting the analysis to RR intervals <2.5 s, only 5-min windows with at least 150 normal sinus beats were analyzed.
+2. `HRV of consecutive 5-minute segments with no overlap` - The results of this analysis were used to quantify HRV by sleep stage with and without respiratory events.  In addition to restricting the analysis to RR intervals <2.5 seconds, only 5-minute windows with at least 150 normal sinus beats were analyzed.
 
 ## Dataset Structure
 
-[Result datasets](:files_path:/datasets/hrv-analysis) have been posted for HRV analysis. Datasets are keyed on `OBF_PPTID`.
+[Result datasets](:files_path:/datasets/hrv-analysis) have been posted for HRV analysis. Datasets are keyed on `NSRRID`.
 
 ## References
 
