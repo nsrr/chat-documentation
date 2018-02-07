@@ -47,8 +47,6 @@
 
 
 
-
-
 |  Signals (Type) to Collect  |  Name of signal  |  Minimum Sampling Rate (Hz) (may be exceeded)  |  Amplifier Peak-to-Peak (peak-peak must fit the expected size of signal)  |  Amplifier Polarity for Collection |
 |:---------------------------:|:----------------:|:----------------------------------------------:|:-------------------------------------------------------------------------:|:----------------------------------:|
 |  Reference                  |  REF             |  200                                           |                                                                           |                                    |
@@ -93,7 +91,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/3-10-data-aquisition.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-01-data-aquisition.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.1 Data Acquisition
   </a>
@@ -103,7 +101,7 @@
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/3-12-display-montage.md" class="btn btn-success">
+  <a href=":pages_path:/psg-data-guide/3-01-02-display-montage.md" class="btn btn-success">
     3.1.2 Display Montage
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
