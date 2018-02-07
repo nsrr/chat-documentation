@@ -62,7 +62,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/3-12-display-montage.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-01-02-display-montage.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.1.2 Display Montage
   </a>
@@ -72,7 +72,7 @@
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/3-20-condensed-data-dictionary.md" class="btn btn-success">
+  <a href=":pages_path:/psg-data-guide/3-02-condensed-data-dictionary.md" class="btn btn-success">
     3.2 Condensed Data Dictionary
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

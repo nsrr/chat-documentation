@@ -24,7 +24,7 @@
     README.md
   </a>
 
-  <a href=":pages_path:/psg-data-guide/3-10-data-aquisition.md" class="btn btn-success">
+  <a href=":pages_path:/psg-data-guide/3-01-data-acquisition.md" class="btn btn-success">
     3.1 Data Acquisition
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

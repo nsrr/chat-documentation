@@ -1,3 +1,7 @@
+### Feburary 7, 2018
+
+- Various typo fixes and renaming PSG data guide pages
+
 ### September 25, 2017
 
 - Add note about linking subject identifier and raw data
