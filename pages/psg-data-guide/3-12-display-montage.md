@@ -84,7 +84,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/3-11-chat-standardized-recording-montage.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-01-01-chat-standardized-recording-montage.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.1.1 CHAT Standardized Recording Montage
   </a>
@@ -94,7 +94,7 @@
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/3-13-equipment-used-at-each-chat-site.md" class="btn btn-success">
+  <a href=":pages_path:/psg-data-guide/3-01-03-equipment-used-at-each-chat-site.md" class="btn btn-success">
     3.1.3 Equipment Used at each CHAT Site
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
