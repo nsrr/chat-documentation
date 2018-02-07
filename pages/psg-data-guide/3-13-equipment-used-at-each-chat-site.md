@@ -21,8 +21,7 @@
 |  CLE Unit   |  Site 30 Bed/Room #            |  #PSG at 2/22/12  |  Capnograph        |  Notes                   |  Date of 1st PSG   |
 |:-----------:|:------------------------------:|:-----------------:|:------------------:|:------------------------:|:------------------:|
 |  302        |  Bed 610B Embla N7000          |  9                |  3Nov  6 BCI       |  Nonin Oximetry 5/6/11    |  11/17/2007       |
-|  303        |  Bed 608 Embla N7000           |  3                |  2Nov  1 BCI       |  Nonin Oximetry 11/18/10  |  2/20/2008        |
-|  305        |  GCRC-CHAT Embla N7000         |  234              |  169 Nov. 65  BCI  |  Nonin Oximetry 10/20/11  |  12/7/2007        |
+|  303        |  Bed 608 Embla N7000           |  3                |  2Nov  1 BCI       |  Nonin Oximetry 11/18/10  |  2/20/2008        |  305        |  GCRC-CHAT Embla N7000         |  234              |  169 Nov. 65  BCI  |  Nonin Oximetry 10/20/11  |  12/7/2007        |
 |  306        |  GCRC-CPAP Compumedics         |  102              |  Novametrix        |  Nonin Oximetry 8/18/11   |  7/11/2008        |
 |  308        |  Hotel Rm 440 Embla            |  8                |  BCI               |  Nonin Oximetry 12/11/11  |  6/28/2011        |
 |  309        |  Hotel Rm 439 Embla            |  14               |  BCI               |  Nonin Oximetry 1/26/12   |  6/28/2011        |
@@ -62,7 +61,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/psg-data-guide/3-12-display-montage.md" class="btn btn-default">
+  <a href=":pages_path:/psg-data-guide/3-01-02-display-montage.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.1.2 Display Montage
   </a>
@@ -72,7 +71,7 @@
     PSG Data Guide
   </a>
 
-  <a href=":pages_path:/psg-data-guide/3-20-condensed-data-dictionary.md" class="btn btn-success">
+  <a href=":pages_path:/psg-data-guide/3-02-condensed-data-dictionary.md" class="btn btn-success">
     3.2 Condensed Data Dictionary
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
