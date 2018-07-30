@@ -29,7 +29,7 @@ The settings below represent the standards set at the beginning of the project. 
 | LLeg1                        | LLeg1/LLeg2           |  200                                           | Gold cup electrode or Ag/AgCl patch              |
 | LLeg2                        | LLeg2/LLeg1           |  200                                           | Gold cup electrode or Ag/AgCl patch              |
 | Airflow                      |                       |   32                                           | Dymedix airflow with RERA-quality cable          |
-| Cannula Flow                 |                       |  128                                           | Salter or Protech Cannual (Dual-end for NP & CO2)|
+| Cannula Flow                 |                       |  128                                           | Salter or Protech Cannula (Dual-end for NP & CO2)|
 | Chest                        |                       |   32                                           | Protech Z-Rip System                             |
 | ABD                          |                       |   32                                           | Protech Z-Rip System                             |
 | SUM                          |                       |   32                                           | Protech Z-Rip System                             |
