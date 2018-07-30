@@ -10,4 +10,12 @@ The dataset is broken down into `baseline` and `followup` files, each of which c
 
 *Note:* EDF/XML files are available for `nonrandomized` CHAT subjects (i.e. those who did not meet all eligibility criteria to be randomized). Covariate data for the `nonrandomized` group are also available.
 
-If you have additional questions about the CHAT dataset, please contact <a href="mailto:support@sleepdata.org">support@sleepdata.org</a>.
+## Data collection forms
+
+The NSRR provides [original data collection forms as PDFs](:files_path:/forms). Many [variables link to these forms](:datasets_path:/shhs/variables) to give users a better idea about the origins of the underlying data.
+
+The forms are included here for historical purposes only and are not intended for use in prospective studies. If you wish to use these forms, please check existing copyrights and regulations beforehand.
+
+## Questions?
+
+Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
