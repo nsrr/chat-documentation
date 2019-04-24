@@ -1,8 +1,8 @@
 # Dataset Introduction
 
-The [CHAT dataset](:files_path:/datasets) posted on the NSRR has gone through various post-processing steps in order to prepare the data for more widespread sharing. The source data are from the CHAT Data Coordinating Center at the University of Pennsylvania. Changes and updates to the source data and have been coordinated in the [chat-data-dictionary repository](https://github.com/sleepepi/chat-data-dictionary).
+The [CHAT dataset](:files_path:/datasets) posted on the NSRR has gone through various post-processing steps in order to prepare the data for more widespread sharing. The source data are from the CHAT Data Coordinating Center at the University of Pennsylvania. Changes and updates to the source data and have been coordinated in the [chat-data-dictionary repository](https://github.com/nsrr/chat-data-dictionary).
 
-**Disclaimer:** These data are not perfect. Known implausible or impossible values have been tracked and documented in our [KNOWNISSUES list](https://github.com/sleepepi/chat-data-dictionary/blob/master/KNOWNISSUES.md). Please [submit issues](https://github.com/sleepepi/chat-data-dictionary/issues) for any new problematic findings.
+**Disclaimer:** These data are not perfect. Known implausible or impossible values have been tracked and documented in our [KNOWNISSUES list](https://github.com/nsrr/chat-data-dictionary/blob/master/KNOWNISSUES.md). Please [submit issues](https://github.com/nsrr/chat-data-dictionary/issues) for any new problematic findings.
 
 ## Structure of the Dataset
 
