@@ -32,10 +32,6 @@ Read more about CHAT at [ClinicalTrials.gov (NCT00560859)](http://clinicaltrials
 - [PSG Sleep Variable Data Guide](:pages_path:/psg-data-guide/3-00-psg-data-guide-toc.md)
 - [CHAT Reliability ICCs](:pages_path:/4-reliability-chat.md)
 
-## EEG Spectral Analysis
-
-As part of the NSRR's effort to explore the CHAT data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/chat/variables?folder=Spectral+Analysis).
-
 ## Heart Rate Variability (HRV) Analysis
 
 Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/chat/variables?folder=HRV+Analysis).
