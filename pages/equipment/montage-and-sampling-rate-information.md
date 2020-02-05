@@ -2,7 +2,7 @@
 
 The settings below represent the standards set at the beginning of the project. There may be a small proportion of studies and signals that do not match these standards exactly. Please review the settings at the individual sleep study level as you proceed with any analyses.
 
-| Channel               | Channel Label | Input 1      | Input 2  | Minimum Sampling Rate (Hz) (may be exceeded) | Sensor Type                                       |
+| Channel               | EDF Label | Input 1      | Input 2  | Minimum Sampling Rate (Hz) (may be exceeded) | Sensor Type                                       |
 |:---------------------:|:-------------:|:------------:|:--------:|:--------------------------------------------:|:-------------------------------------------------:|
 | REF                   | Fpz           | -          | -         | 200                                          | Gold cup electrode                                |
 | Ground                | Ground        | -        | -         | 200                                          | Gold cup electrode                                |
