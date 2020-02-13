@@ -28,7 +28,7 @@ The settings below represent the standards set at the beginning of the project. 
 | Right Leg EMG         | Rleg2         | Rleg2        | Fpz      | 200                                          | Gold cup electrode or Ag/AgCl patch               |
 | Left Leg EMG          | LLeg1         | LLeg1        | Fpz      | 200                                          | Gold cup electrode or Ag/AgCl patch               |
 | Left Leg EMG          | LLeg2         | LLeg2        | Fpz      | 200                                          | Gold cup electrode or Ag/AgCl patch               |
-| Thermistor            | Airflow       | Airflow      | -         | 32                                           | Dymedix airflow with RERA-quality cable           |
+| Airflow            | Airflow       | Airflow      | -         | 32                                           | Dymedix airflow with RERA-quality cable           |
 | Nasal Pressure        | Cannula Flow  | Cannula Flow | -         | 128                                          | Salter or Protech Cannula (Dual-end for NP & CO2) |
 | Thorax                | Chest         | Chest        | -         | 32                                           | Protech Z-Rip System                              |
 | Abdomen               | ABD           | ABD          | -         | 32                                           | Protech Z-Rip System                              |
