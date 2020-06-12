@@ -4,6 +4,18 @@ The Childhood Adenotonsillectomy Trial (CHAT) is a multi-center, single-blind, r
 
 Read more about CHAT at [ClinicalTrials.gov (NCT00560859)](http://clinicaltrials.gov/show/NCT00560859).
 
+## Citation and acknowledgement
+
+When using this dataset, please cite the following:
+
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> [Marcus CL, Moore RH, Rosen CL, Giordani B, Garetz SL, Taylor HG, Mitchell RB, Amin R, Katz ES, Arens R, Paruthi S, Muzumdar H, Gozal D, Thomas NH, Ware J, Beebe D, Snyder K, Elden L, Sprecher RC, Willging P, Jones D, Bent JP, Hoban T, Chervin RD, Ellenberg SS, Redline S; Childhood Adenotonsillectomy Trial (CHAT). A randomized trial of adenotonsillectomy for childhood sleep apnea. N Engl J Med. 2013 Jun 20;368(25):2366-76. doi: 10.1056/NEJMoa1215881. Epub 2013 May 21. PMID: 23692173; PMCID: PMC3756808.](https://pubmed.ncbi.nlm.nih.gov/23692173/)
+
+Please include the following text in the Acknowledgements:
+
+> The Childhood Adenotonsillectomy Trial (CHAT) was supported by the National Institutes of Health (HL083075, HL083129, UL1-RR-024134, UL1 RR024989). The National Sleep Research Resource was supported by the National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, RFP 75N92019R002).
+
 ## Data overview
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from the CHAT study.
@@ -50,14 +62,3 @@ NSRR user Mathias Baumert and colleagues conducted a specialized analysis using 
 
 - http://www.nejm.org/doi/full/10.1056/NEJMoa1215881#t
 - http://www.journalsleep.org/ViewAbstract.aspx?pid=28331
-
-## Citation
-
-When citing this dataset please use:
-
-1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
-2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-3. Redline S, Amin R, Beebe D, Chervin RD, Garetz SL, Giordani B, Marcus CL, Moore RH, Rosen CL, Arens R, Gozal D, Katz ES, Mitchell RB, Muzumdar H, Taylor HG, Thomas N, Ellenberg S. [**The Childhood Adenotonsillectomy Trial (CHAT): rationale, design, and challenges of a randomized controlled trial evaluating a standard surgical procedure in a pediatric population.**](http://www.ncbi.nlm.nih.gov/pubmed/22043122) Sleep. 2011 Nov 1;34(11):1509-17. doi: 10.5665/sleep.1388. PubMed PMID: 22043122; PubMed Central PMCID: PMC3198206.
-4. Marcus CL, Moore RH, Rosen CL, Giordani B, Garetz SL, Taylor HG, Mitchell RB, Amin R, Katz ES, Arens R, Paruthi S, Muzumdar H, Gozal D, Thomas NH, Ware J, Beebe D, Snyder K, Elden L, Sprecher RC, Willging P, Jones D, Bent JP, Hoban T, Chervin RD, Ellenberg SS, Redline S; Childhood Adenotonsillectomy Trial (CHAT). [**A randomized trial of adenotonsillectomy for childhood sleep apnea.**](http://www.ncbi.nlm.nih.gov/pubmed/23692173) N Engl J Med. 2013 Jun 20;368(25):2366-76. doi: 10.1056/NEJMoa1215881. Epub 2013 May 21. PubMed PMID: 23692173; PubMed Central PMCID: PMC3756808.
-
-Supported by grants (HL083075, HL083129, UL1-RR-024134, UL1 RR024989) from the National Institutes of Health.
