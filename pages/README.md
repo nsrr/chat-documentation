@@ -14,7 +14,7 @@ When using this dataset, please cite the following:
 
 Please include the following text in the Acknowledgements:
 
-> The Childhood Adenotonsillectomy Trial (CHAT) was supported by the National Institutes of Health (HL083075, HL083129, UL1-RR-024134, UL1 RR024989). The National Sleep Research Resource was supported by the National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, RFP 75N92019R002).
+> The Childhood Adenotonsillectomy Trial (CHAT) was supported by the National Institutes of Health (HL083075, HL083129, UL1-RR-024134, UL1 RR024989). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
 
 ## Data overview
 
