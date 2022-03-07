@@ -47,4 +47,4 @@ Although the long term (24-hour) statistics of SDANN, SDNNIDX and ULF power can 
 
 ## References
 
-The open source code used for this analysis along with a tutorial on its use is available at the NIH-sponsored Research Resource for Complex Physiologic Signals: http://physionet.org/tutorials/hrv-toolkit/
+The open source code used for this analysis along with a tutorial on its use is available at the NIH-sponsored Research Resource for Complex Physiologic Signals: https://physionet.org/content/pcst/1.0.0/
